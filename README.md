@@ -5,6 +5,7 @@
  
 **Repository to track the progress in Natural Language Processing (NLP)**
 * https://nlpprogress.com/
+* find demos (https://demo.allennlp.org/sentiment-analysis/glove-sentiment-analysis)
  
 **Sharing popular NLP courses freely available:-**
  
