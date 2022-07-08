@@ -29,6 +29,11 @@
 * [NVIDIA Triton Ensemble Model for deploying Transformers into production) (https://blog.ml6.eu/triton-ensemble-model-for-deploying-transformers-into-production-c0f727c012e3) (https://www.linkedin.com/posts/ml6team_ml6-ml6team-onnx-activity-6940584701862526976-kr3k/?utm_source=linkedin_share&utm_medium=android_app)
 * Accelerating Transformers (https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_machinelearning-deeplearning-huggingface-activity-6940344888504795136-pChc/?utm_source=linkedin_share&utm_medium=android_app)
 * https://github.com/huggingface/transformers
+* [GPT-3] https://www.linkedin.com/feed/update/urn:li:activity:6942773905090588672
+* https://huggingface.co/docs/transformers/v4.19.2/en/main_classes/pipelines#transformers.ZeroShotClassificationPipeline
+* [KeyPhraseTrasformer] https://huggingface.co/spaces/snrspeaks/KeyPhraseTransformer
+* [ul2] https://huggingface.co/google/ul2
+* [CodeGen] https://www.linkedin.com/posts/kalyankatikapallisubramanyam_salesforce-nlproc-nlp-activity-6947728806883250176-z85z?utm_source=linkedin_share&utm_medium=android_app
 
 **Open Source Framework for NLP**
 * https://www.linkedin.com/posts/sallu-mandya_4-open-source-frameworks-for-nlp-1-deeppavlov-activity-6940578424285462528-M_Yq/?utm_source=linkedin_share&utm_medium=android_app
@@ -38,3 +43,16 @@
 
 **NLP Notebooks**
 * https://github.com/dair-ai/ML-Notebooks#nlp
+
+**Worthful NLP Kaggle competition
+* https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview
+
+📕📄Book Reference: 
+practical NLP, Almost any machine learning problem ( 🚀 Abhishek Thakur), NLP with Transformer(Hugging Face), and Transformer for NLP (Denis Rothman) 
+
+** Textnets: a network-based approach to automated text analysis with spaCy
+* https://www.linkedin.com/posts/harshvardhan-sharma-21070b25_github-jboynyctextnets-text-analysis-activity-6940347404009246720-ZXnl?utm_source=linkedin_share&utm_medium=android_app
+
+** Data augmentation NLP
+*https://github.com/styfeng/DataAug4NLP
+* paper:- https://arxiv.org/abs/2105.03075
