@@ -1,34 +1,41 @@
 ## NLP-Primer
  A one step solution to learn fundamentals of Natural Language Processing (NLP)
  
-**Different Applications** 
+**NLP Different Applications Areas Demo and notebooks** 
+https://demo.allennlp.org/sentiment-analysis/glove-sentiment-analysis
+https://github.com/microsoft/nlp-recipes
+https://github.com/nlptown/nlp-notebooks
  
-**Repository to track the progress in Natural Language Processing (NLP)**
-* https://nlpprogress.com/
-* find demos (https://demo.allennlp.org/sentiment-analysis/glove-sentiment-analysis)
-* https://towardsdatascience.com/7-nlp-techniques-you-can-easily-implement-with-python-dc0ade1a53c2
-* https://www.linkedin.com/posts/theophano-mitsa-ph-d-2a62349_a-survey-on-text-classification-from-traditional-activity-6950790814574788608-qage?utm_source=linkedin_share&utm_medium=android_app
-* https://github.com/raghavbali/workshop_text_classification
-* NER Stanza https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_python-nlp-opensource-activity-6935122333355413504-_JEo/?utm_source=linkedin_share&utm_medium=android_app
-* https://github.com/dipanjanS/adv_nlp_workshop_odsc_europe22/blob/main/10_NLP_Applications_Text_Classification_with_Transformers.ipynb
+**Curated Repository to track the progress in NLP**
+https://nlpprogress.com/
 
-* https://www.kaggle.com/general/43832
+**7 NLP basic techiques in python**
+https://towardsdatascience.com/7-nlp-techniques-you-can-easily-implement-with-python-dc0ade1a53c2
+
+**Text Classification**
+* [review paper] https://arxiv.org/abs/2008.00364
+* [workshop_text_classification] https://github.com/raghavbali/workshop_text_classification
+* [Text Classification (Sentiment Analysis) with Transformers] https://github.com/dipanjanS/adv_nlp_workshop_odsc_europe22/blob/main/10_NLP_Applications_Text_Classification_with_Transformers.ipynb
+
+**Semantic Search**
+https://www.pinecone.io/learn/nlp/
+
+**Analizing Stanza NER pipelines with Rubrix**
+https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_python-nlp-opensource-activity-6935122333355413504-_JEo/?utm_source=linkedin_share&utm_medium=android_app
+
  
 **Sharing popular NLP courses freely available:-**
- 
-* [NLP Course (Hugging Face)] (https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o)
+* [NLP Course (Hugging Face)] (https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o) (https://github.com/dair-ai/ML-Course-Notes)
 * [CS224N: Natural Language Processing with Deep Learning] (https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) (https://web.stanford.edu/class/cs224n/)
 * [CMU Neural Networks for NLP] (https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
 * [CS224U: Natural Language Understanding] (https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ)
 * [CMU Advanced NLP] (https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
 * [Multilingual NLP] (https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7)
 * [Advanced NLP] (https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
-* https://www.coursera.org/specializations/natural-language-processing
-* https://www.linkedin.com/posts/omarsar_machinelearning-deeplearning-ai-activity-6950826178198814720-sbMg?utm_source=linkedin_share&utm_medium=android_app
-* https://dair-ai.notion.site/Lecture-1-Introduction-and-Word-Vectors-afdc392dd83e44faab91f7c1b8f563a0
-* https://www.pinecone.io/learn/nlp/
-* https://microsoft.github.io/nlp-recipes/
-* https://github.com/nlptown/nlp-notebooks
+* [Coursera NLP specialization] https://www.coursera.org/specializations/natural-language-processing
+
+
+**Sentence Transformer**
 * https://www.sbert.net/
 
 
@@ -79,30 +86,25 @@ practical NLP, Almost any machine learning problem ( 🚀 Abhishek Thakur), NLP 
 *https://github.com/styfeng/DataAug4NLP
 * paper:- https://arxiv.org/abs/2105.03075
 
-**P5 pretraining NLP**
+**P5 model pretraining NLP**
 * https://www.linkedin.com/posts/miguelgfierro_recommendersystems-machinelearning-ai-activity-6944871641562681344-rjNm?utm_source=linkedin_share&utm_medium=android_app
 
 **Track and visualize your spaCy logs with AimStack**
 https://www.linkedin.com/posts/philipvollet_datascience-python-machinelearning-activity-6935873475802755073-teDh/?utm_source=linkedin_share&utm_medium=android_app
 
-** Word2Vec**
-*https://jalammar.github.io/illustrated-word2vec/
-* https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial
+
 
 ** BERT
 *https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
 
-** Key concept text pre-processing
+**Key concept text pre-processing**
 * https://www.seekho.ai/blog/key-concepts-of-text-preprocessing-for-natural-language-processing/
 
-** Vectorization techniques
+**Vectorization techniques**
 * https://neptune.ai/blog/vectorization-techniques-in-nlp-guide
 * https://huggingface.co/docs/transformers/tokenizer_summary
-
-** TF-IDF
-* https://medium.com/web-mining-is688-spring-2021/cosine-similarity-and-tfidf-c2a7079e13fa
-* https://iq.opengenus.org/document-similarity-tf-idf/
-* https://github.com/parthasm/Search-Engine-TF-IDF
+* [Word2Vec] (https://jalammar.github.io/illustrated-word2vec/) (https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial)
+* [TF-IDF] (https://medium.com/web-mining-is688-spring-2021/cosine-similarity-and-tfidf-c2a7079e13fa) (https://iq.opengenus.org/document-similarity-tf-idf/) (https://github.com/parthasm/Search-Engine-TF-IDF)
 
 ** Doc2Vec
 * https://gab41.lab41.org/doc2vec-to-assess-semantic-similarity-in-source-code-667acb3e62d7
