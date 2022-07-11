@@ -24,6 +24,7 @@
 * https://www.coursera.org/specializations/natural-language-processing
 * https://www.linkedin.com/posts/omarsar_machinelearning-deeplearning-ai-activity-6950826178198814720-sbMg?utm_source=linkedin_share&utm_medium=android_app
 * https://dair-ai.notion.site/Lecture-1-Introduction-and-Word-Vectors-afdc392dd83e44faab91f7c1b8f563a0
+* https://www.pinecone.io/learn/nlp/
 
 
 **All about Huggingface**
@@ -98,3 +99,4 @@ practical NLP, Almost any machine learning problem ( 🚀 Abhishek Thakur), NLP 
 * https://humboldt-wi.github.io/blog/research/information_systems_1718/04topicmodels/
 * https://github.com/nlptown/nlp-notebooks/blob/master/Simple%20Sentence%20Similarity.ipynb
 * https://github.com/dipanjanS/adv_nlp_workshop_odsc_europe22/blob/main/02_NLP_Applications_Text_Classification_Deep_Learning_CNN_Models.ipynb
+* https://www.youtube.com/watch?v=jVPd7lEvjtg&t=139s
