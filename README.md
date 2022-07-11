@@ -25,6 +25,9 @@
 * https://www.linkedin.com/posts/omarsar_machinelearning-deeplearning-ai-activity-6950826178198814720-sbMg?utm_source=linkedin_share&utm_medium=android_app
 * https://dair-ai.notion.site/Lecture-1-Introduction-and-Word-Vectors-afdc392dd83e44faab91f7c1b8f563a0
 * https://www.pinecone.io/learn/nlp/
+* https://microsoft.github.io/nlp-recipes/
+* https://github.com/nlptown/nlp-notebooks
+* https://www.sbert.net/
 
 
 **All about Huggingface**
