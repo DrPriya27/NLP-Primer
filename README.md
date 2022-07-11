@@ -9,6 +9,8 @@
 * https://towardsdatascience.com/7-nlp-techniques-you-can-easily-implement-with-python-dc0ade1a53c2
 * https://www.linkedin.com/posts/theophano-mitsa-ph-d-2a62349_a-survey-on-text-classification-from-traditional-activity-6950790814574788608-qage?utm_source=linkedin_share&utm_medium=android_app
 * https://github.com/raghavbali/workshop_text_classification
+* NER Stanza https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_python-nlp-opensource-activity-6935122333355413504-_JEo/?utm_source=linkedin_share&utm_medium=android_app
+* https://github.com/dipanjanS/adv_nlp_workshop_odsc_europe22/blob/main/10_NLP_Applications_Text_Classification_with_Transformers.ipynb
 
 * https://www.kaggle.com/general/43832
  
@@ -46,6 +48,13 @@
 * [ul2] https://huggingface.co/google/ul2
 * [CodeGen] https://www.linkedin.com/posts/kalyankatikapallisubramanyam_salesforce-nlproc-nlp-activity-6947728806883250176-z85z?utm_source=linkedin_share&utm_medium=android_app
 * [Visualizing transformer BertViz] https://www.linkedin.com/posts/giorgiotorre1234_technology-nlp-machinelearning-activity-6951975662056263680-nxHF?utm_source=linkedin_share&utm_medium=android_app
+* [BLOOM] https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_machinelearning-deeplearning-opensource-activity-6948730421803163648-4CTv?utm_source=linkedin_share&utm_medium=android_app
+* [Hugging face tracking performance] https://wandb.ai/jxmorris12/huggingface-demo/reports/A-Step-by-Step-Guide-to-Tracking-Hugging-Face-Model-Performance--VmlldzoxMDE2MTU
+* https://github.com/huggingface/transformers
+* https://github.com/huggingface/course
+* https://theaisummer.com/hugging-face-vit/
+* https://discuss.huggingface.co/
+* https://www.analyticsvidhya.com/blog/2022/01/huggingface-transformer-model-using-amazon-sagemaker/
 
 **Open Source Framework for NLP**
 * https://www.linkedin.com/posts/sallu-mandya_4-open-source-frameworks-for-nlp-1-deeppavlov-activity-6940578424285462528-M_Yq/?utm_source=linkedin_share&utm_medium=android_app
@@ -63,17 +72,20 @@
 📕📄Book Reference: 
 practical NLP, Almost any machine learning problem ( 🚀 Abhishek Thakur), NLP with Transformer(Hugging Face), and Transformer for NLP (Denis Rothman) 
 
-** Textnets: a network-based approach to automated text analysis with spaCy
+** Textnets: a network-based approach to automated text analysis with spaCy**
 * https://www.linkedin.com/posts/harshvardhan-sharma-21070b25_github-jboynyctextnets-text-analysis-activity-6940347404009246720-ZXnl?utm_source=linkedin_share&utm_medium=android_app
 
-** Data augmentation NLP
+** Data augmentation NLP**
 *https://github.com/styfeng/DataAug4NLP
 * paper:- https://arxiv.org/abs/2105.03075
 
-**P5 pretraining NLP
+**P5 pretraining NLP**
 * https://www.linkedin.com/posts/miguelgfierro_recommendersystems-machinelearning-ai-activity-6944871641562681344-rjNm?utm_source=linkedin_share&utm_medium=android_app
 
-** Word2Vec
+**Track and visualize your spaCy logs with AimStack**
+https://www.linkedin.com/posts/philipvollet_datascience-python-machinelearning-activity-6935873475802755073-teDh/?utm_source=linkedin_share&utm_medium=android_app
+
+** Word2Vec**
 *https://jalammar.github.io/illustrated-word2vec/
 * https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial
 
@@ -103,3 +115,4 @@ practical NLP, Almost any machine learning problem ( 🚀 Abhishek Thakur), NLP 
 * https://github.com/nlptown/nlp-notebooks/blob/master/Simple%20Sentence%20Similarity.ipynb
 * https://github.com/dipanjanS/adv_nlp_workshop_odsc_europe22/blob/main/02_NLP_Applications_Text_Classification_Deep_Learning_CNN_Models.ipynb
 * https://www.youtube.com/watch?v=jVPd7lEvjtg&t=139s
+* https://pub.towardsai.net/scalable-and-blazing-fast-similarity-search-with-milvus-vector-database-d221706e605a
