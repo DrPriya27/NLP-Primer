@@ -33,6 +33,7 @@ https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_python-nlp-opensource-
 * [Multilingual NLP] (https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7)
 * [Advanced NLP] (https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
 * [Coursera NLP specialization] https://www.coursera.org/specializations/natural-language-processing
+* [CS25: Transformers United] https://web.stanford.edu/class/cs25/
 
 
 **Sentence Transformer**
@@ -62,6 +63,8 @@ https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_python-nlp-opensource-
 * https://theaisummer.com/hugging-face-vit/
 * https://discuss.huggingface.co/
 * https://www.analyticsvidhya.com/blog/2022/01/huggingface-transformer-model-using-amazon-sagemaker/
+* https://github.com/cmhungsteve/Awesome-Transformer-Attention#attention-for-vision
+* [BableNet] https://www.linkedin.com/posts/inna-vogel-nlp_nlp-ml-machinelearning-activity-6952199788230545408-Lt55?utm_source=linkedin_share&utm_medium=android_app
 
 **Open Source Framework for NLP**
 * https://www.linkedin.com/posts/sallu-mandya_4-open-source-frameworks-for-nlp-1-deeppavlov-activity-6940578424285462528-M_Yq/?utm_source=linkedin_share&utm_medium=android_app
@@ -94,8 +97,11 @@ https://www.linkedin.com/posts/philipvollet_datascience-python-machinelearning-a
 
 
 
-** BERT
-*https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
+**BERT**
+https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
+https://mlwhiz.com/blog/2021/07/24/huggingface-bert/?utm_campaign=understanding-bert-with-huggingface&utm_medium=social_link&utm_source=missinglettr
+[BERTTopic] https://www.linkedin.com/posts/mgrootendorst_github-maartengrbertopic-leveraging-bert-activity-6952263932820533248-2zxG?utm_source=linkedin_share&utm_medium=android_app
+[ALBERT, RoBERTa, and DistilBERT] https://www.linkedin.com/posts/towards-data-science_everything-you-need-to-know-about-albert-activity-6952080274117574656-XcFJ?utm_source=linkedin_share&utm_medium=android_app
 
 **Key concept text pre-processing**
 * https://www.seekho.ai/blog/key-concepts-of-text-preprocessing-for-natural-language-processing/
@@ -118,3 +124,6 @@ https://www.linkedin.com/posts/philipvollet_datascience-python-machinelearning-a
 * https://github.com/dipanjanS/adv_nlp_workshop_odsc_europe22/blob/main/02_NLP_Applications_Text_Classification_Deep_Learning_CNN_Models.ipynb
 * https://www.youtube.com/watch?v=jVPd7lEvjtg&t=139s
 * https://pub.towardsai.net/scalable-and-blazing-fast-similarity-search-with-milvus-vector-database-d221706e605a
+
+**Social media pretrained language model**
+https://www.linkedin.com/posts/kalyankatikapallisubramanyam_social-media-pretrained-language-models-activity-6952245642630942720-2G3z?utm_source=linkedin_share&utm_medium=android_app
