@@ -136,3 +136,10 @@ https://mlwhiz.com/blog/2021/07/24/huggingface-bert/?utm_campaign=understanding-
 
 **Social media pretrained language model**
 https://www.linkedin.com/posts/kalyankatikapallisubramanyam_social-media-pretrained-language-models-activity-6952245642630942720-2G3z?utm_source=linkedin_share&utm_medium=android_app
+
+https://www.kaggle.com/code/hgilles06/a-doc2vec-search-engine-cord19-new-version
+https://github.com/asprenger/doc2vec
+https://stackoverflow.com/questions/57496250/doc2vec-object-has-no-attribute-get-latest-training-loss
+https://github.com/jhlau/doc2vec
+https://github.com/RelevanceAI/search_comparator
+https://groups.google.com/g/gensim/c/VsOeQDTvHTI?pli=1
