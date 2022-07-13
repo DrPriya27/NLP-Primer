@@ -57,6 +57,7 @@ https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_python-nlp-opensource-
 * [CodeGen] https://www.linkedin.com/posts/kalyankatikapallisubramanyam_salesforce-nlproc-nlp-activity-6947728806883250176-z85z?utm_source=linkedin_share&utm_medium=android_app
 * [Visualizing transformer BertViz] https://www.linkedin.com/posts/giorgiotorre1234_technology-nlp-machinelearning-activity-6951975662056263680-nxHF?utm_source=linkedin_share&utm_medium=android_app
 * [BLOOM] https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_machinelearning-deeplearning-opensource-activity-6948730421803163648-4CTv?utm_source=linkedin_share&utm_medium=android_app
+https://www.linkedin.com/feed/update/urn:li:activity:6952569729702125568?utm_source=linkedin_share&utm_medium=android_app
 * [Hugging face tracking performance] https://wandb.ai/jxmorris12/huggingface-demo/reports/A-Step-by-Step-Guide-to-Tracking-Hugging-Face-Model-Performance--VmlldzoxMDE2MTU
 * https://github.com/huggingface/transformers
 * https://github.com/huggingface/course
@@ -124,6 +125,14 @@ https://mlwhiz.com/blog/2021/07/24/huggingface-bert/?utm_campaign=understanding-
 * https://github.com/dipanjanS/adv_nlp_workshop_odsc_europe22/blob/main/02_NLP_Applications_Text_Classification_Deep_Learning_CNN_Models.ipynb
 * https://www.youtube.com/watch?v=jVPd7lEvjtg&t=139s
 * https://pub.towardsai.net/scalable-and-blazing-fast-similarity-search-with-milvus-vector-database-d221706e605a
+* https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/ch04.html
+* https://stats.stackexchange.com/questions/401366/text-embeddings-on-a-small-dataset
+* http://xplordat.com/2018/10/09/word-embeddings-and-document-vectors-part-2-classification/
+* https://medium.com/wisio/a-gentle-introduction-to-doc2vec-db3e8c0cce5e
+* https://markroxor.github.io/gensim/static/notebooks/doc2vec-lee.html
+* https://radimrehurek.com/gensim/auto_examples/tutorials/run_doc2vec_lee.html
+* https://groups.google.com/g/gensim/c/VsOeQDTvHTI?pli=1
+* https://datascience.stackexchange.com/questions/103927/how-to-examine-if-a-doc2vec-model-is-sufficiently-trained
 
 **Social media pretrained language model**
 https://www.linkedin.com/posts/kalyankatikapallisubramanyam_social-media-pretrained-language-models-activity-6952245642630942720-2G3z?utm_source=linkedin_share&utm_medium=android_app
