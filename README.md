@@ -25,10 +25,44 @@ https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_python-nlp-opensource-
 
  
 **Sharing popular NLP courses freely available:-**
-* [NLP Course (Hugging Face)] (https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o) (https://github.com/dair-ai/ML-Course-Notes)
-* [CS224N: Natural Language Processing with Deep Learning] (https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) (https://web.stanford.edu/class/cs224n/)
-* [CMU Neural Networks for NLP] (https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
-* [CS224U: Natural Language Understanding] (https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ)
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Name</b></th>
+    <th class="tg-yw4l"><b>Website Link</b></th>
+    <th class="tg-yw4l"><b>Video Link</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Hugging Face</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o">Video<a></td>
+  </tr>
+      
+  <tr>
+    <td class="tg-yw4l">CS224N-NLP with Deep Learning</td>
+    <td class="tg-yw4l"><a href="https://web.stanford.edu/class/cs224n/">Website<a></td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ ">Video<a></td>
+  </tr>
+      
+   <tr>
+    <td class="tg-yw4l">CMU Neural Networks for NLP</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV">Video<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">CS224U-Natural Language Understanding</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ">Video<a></td>
+  </tr>
+  
+ 
+  </table> 
+* [NLP Course (Hugging Face)] () (https://github.com/dair-ai/ML-Course-Notes)
+
+* [] ()
+* [] ()
 * [CMU Advanced NLP] (https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
 * [Multilingual NLP] (https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7)
 * [Advanced NLP] (https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
