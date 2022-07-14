@@ -212,10 +212,7 @@ https://mlwhiz.com/blog/2021/07/24/huggingface-bert/?utm_campaign=understanding-
 * https://www.seekho.ai/blog/key-concepts-of-text-preprocessing-for-natural-language-processing/
 
 **Vectorization techniques**
-* https://neptune.ai/blog/vectorization-techniques-in-nlp-guide
 * https://huggingface.co/docs/transformers/tokenizer_summary
-* [Word2Vec] (https://jalammar.github.io/illustrated-word2vec/) (https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial) (https://medium.com/@makcedward/how-negative-sampling-work-on-word2vec-7bf8d545b116?_branch_match_id=1074190549099922356&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1S83DksxLs7KcSlKAgD3EP46IwAAAA%3D%3D) (https://medium.com/@makcedward/how-negative-sampling-work-on-word2vec-7bf8d545b116)
-* [TF-IDF] (https://medium.com/web-mining-is688-spring-2021/cosine-similarity-and-tfidf-c2a7079e13fa) (https://iq.opengenus.org/document-similarity-tf-idf/) (https://github.com/parthasm/Search-Engine-TF-IDF)
 
 ** Doc2Vec
 * https://gab41.lab41.org/doc2vec-to-assess-semantic-similarity-in-source-code-667acb3e62d7
@@ -240,13 +237,14 @@ https://mlwhiz.com/blog/2021/07/24/huggingface-bert/?utm_campaign=understanding-
 * https://blogs.oracle.com/ai-and-datascience/post/introduction-to-embedding-in-natural-language-processing
 * https://www.machinelearningplus.com/nlp/gensim-tutorial/#17howtocreatedocumentvectorsusingdoc2vec
 
-
-**Social media pretrained language model**
-https://www.linkedin.com/posts/kalyankatikapallisubramanyam_social-media-pretrained-language-models-activity-6952245642630942720-2G3z?utm_source=linkedin_share&utm_medium=android_app
-
 https://www.kaggle.com/code/hgilles06/a-doc2vec-search-engine-cord19-new-version
 https://github.com/asprenger/doc2vec
 https://stackoverflow.com/questions/57496250/doc2vec-object-has-no-attribute-get-latest-training-loss
 https://github.com/RelevanceAI/search_comparator
 https://groups.google.com/g/gensim/c/VsOeQDTvHTI?pli=1
+
+**Social media pretrained language model**
+https://www.linkedin.com/posts/kalyankatikapallisubramanyam_social-media-pretrained-language-models-activity-6952245642630942720-2G3z?utm_source=linkedin_share&utm_medium=android_app
+
+
 
