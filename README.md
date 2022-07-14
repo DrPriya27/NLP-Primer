@@ -110,7 +110,7 @@ https://mlwhiz.com/blog/2021/07/24/huggingface-bert/?utm_campaign=understanding-
 **Vectorization techniques**
 * https://neptune.ai/blog/vectorization-techniques-in-nlp-guide
 * https://huggingface.co/docs/transformers/tokenizer_summary
-* [Word2Vec] (https://jalammar.github.io/illustrated-word2vec/) (https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial)
+* [Word2Vec] (https://jalammar.github.io/illustrated-word2vec/) (https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial) (https://medium.com/@makcedward/how-negative-sampling-work-on-word2vec-7bf8d545b116?_branch_match_id=1074190549099922356&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1S83DksxLs7KcSlKAgD3EP46IwAAAA%3D%3D) (https://medium.com/@makcedward/how-negative-sampling-work-on-word2vec-7bf8d545b116)
 * [TF-IDF] (https://medium.com/web-mining-is688-spring-2021/cosine-similarity-and-tfidf-c2a7079e13fa) (https://iq.opengenus.org/document-similarity-tf-idf/) (https://github.com/parthasm/Search-Engine-TF-IDF)
 
 ** Doc2Vec
@@ -133,6 +133,11 @@ https://mlwhiz.com/blog/2021/07/24/huggingface-bert/?utm_campaign=understanding-
 * https://radimrehurek.com/gensim/auto_examples/tutorials/run_doc2vec_lee.html
 * https://groups.google.com/g/gensim/c/VsOeQDTvHTI?pli=1
 * https://datascience.stackexchange.com/questions/103927/how-to-examine-if-a-doc2vec-model-is-sufficiently-trained
+* https://blogs.oracle.com/ai-and-datascience/post/introduction-to-embedding-in-natural-language-processing
+* https://www.machinelearningplus.com/nlp/gensim-tutorial/#17howtocreatedocumentvectorsusingdoc2vec
+
+NLP augmentation
+https://www.reddit.com/r/LanguageTechnology/comments/jf89de/nlp_data_augmentation_best_practices_and_tricks/
 
 **Social media pretrained language model**
 https://www.linkedin.com/posts/kalyankatikapallisubramanyam_social-media-pretrained-language-models-activity-6952245642630942720-2G3z?utm_source=linkedin_share&utm_medium=android_app
@@ -143,3 +148,5 @@ https://stackoverflow.com/questions/57496250/doc2vec-object-has-no-attribute-get
 https://github.com/jhlau/doc2vec
 https://github.com/RelevanceAI/search_comparator
 https://groups.google.com/g/gensim/c/VsOeQDTvHTI?pli=1
+
+https://github.com/topics/nlp-machine-learning?l=jupyter+notebook&o=desc&s=forks
