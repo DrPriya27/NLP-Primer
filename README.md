@@ -3,19 +3,13 @@
  
 **NLP Different Applications Areas Demo and notebooks** 
 https://demo.allennlp.org/sentiment-analysis/glove-sentiment-analysis
-https://github.com/microsoft/nlp-recipes
-https://github.com/nlptown/nlp-notebooks
  
 **Curated Repository to track the progress in NLP**
 https://nlpprogress.com/
 
-**7 NLP basic techiques in python**
-https://towardsdatascience.com/7-nlp-techniques-you-can-easily-implement-with-python-dc0ade1a53c2
 
 **Text Classification**
-* [review paper] https://arxiv.org/abs/2008.00364
-* [workshop_text_classification] https://github.com/raghavbali/workshop_text_classification
-* [Text Classification (Sentiment Analysis) with Transformers] https://github.com/dipanjanS/adv_nlp_workshop_odsc_europe22/blob/main/10_NLP_Applications_Text_Classification_with_Transformers.ipynb
+[review paper] https://arxiv.org/abs/2008.00364
 
 **Semantic Search**
 https://www.pinecone.io/learn/nlp/
@@ -57,18 +51,92 @@ https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_python-nlp-opensource-
     <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ">Video<a></td>
   </tr>
   
+  <tr>
+    <td class="tg-yw4l">CMU Advanced NLP</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6">Video<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Multilingual NLP</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7">Video<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Advanced NLP</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL">Video<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Coursera NLP specialization</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://www.coursera.org/specializations/natural-language-processing">Video<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">CS25: Transformers United</td>
+    <td class="tg-yw4l"><a href="https://web.stanford.edu/class/cs25/">Website<a></td>
+    <td class="tg-yw4l"></td>
+  </tr>
  
   </table> 
-* [NLP Course (Hugging Face)] () (https://github.com/dair-ai/ML-Course-Notes)
+  
+  **Sharing popular NLP notebooks freely available:-**
 
-* [] ()
-* [] ()
-* [CMU Advanced NLP] (https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
-* [Multilingual NLP] (https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7)
-* [Advanced NLP] (https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
-* [Coursera NLP specialization] https://www.coursera.org/specializations/natural-language-processing
-* [CS25: Transformers United] https://web.stanford.edu/class/cs25/
-
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Link</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">MIcrosoft</td>
+    <td class="tg-yw4l"><a href="https://github.com/microsoft/nlp-recipes">Github<a></td>
+  </tr>
+      
+  <tr>
+    <td class="tg-yw4l">NLP Town</td>
+    <td class="tg-yw4l"><a href="https://github.com/nlptown/nlp-notebooks">Github<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Dair-AI</td>
+    <td class="tg-yw4l"><a href="https://github.com/dair-ai/ML-Course-Notes">Github<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">7 NLP basic techiques in python</td>
+    <td class="tg-yw4l"><a href="https://towardsdatascience.com/7-nlp-techniques-you-can-easily-implement-with-python-dc0ade1a53c2">Towards Data Science<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Text Classification</td>
+    <td class="tg-yw4l"><a href="https://github.com/raghavbali/workshop_text_classification">Github<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Text Classification (Sentiment Analysis) with Transformers</td>
+    <td class="tg-yw4l"><a href="https://github.com/dipanjanS/adv_nlp_workshop_odsc_europe22/blob/main/10_NLP_Applications_Text_Classification_with_Transformers.ipynb">Github<a></td>
+  </tr>  
+  
+  <tr>
+    <td class="tg-yw4l">kkk</td>
+    <td class="tg-yw4l"><a href="https://github.com/topics/nlp-machine-learning?l=jupyter+notebook&o=desc&s=forks">Github<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Sentence Embeddings</td>
+    <td class="tg-yw4l"><a href="https://github.com/jhlau/doc2vec">Github<a></td>
+  </tr>
+  
+  
+  </table> 
+  
+ **NLP Notebooks**
+* https://github.com/dair-ai/ML-Notebooks#nlp
+* https://www.kaggle.com/getting-started/73813
 
 **Sentence Transformer**
 * https://www.sbert.net/
@@ -123,6 +191,8 @@ practical NLP, Almost any machine learning problem ( 🚀 Abhishek Thakur), NLP 
 ** Data augmentation NLP**
 *https://github.com/styfeng/DataAug4NLP
 * paper:- https://arxiv.org/abs/2105.03075
+* https://www.reddit.com/r/LanguageTechnology/comments/jf89de/nlp_data_augmentation_best_practices_and_tricks/
+
 
 **P5 model pretraining NLP**
 * https://www.linkedin.com/posts/miguelgfierro_recommendersystems-machinelearning-ai-activity-6944871641562681344-rjNm?utm_source=linkedin_share&utm_medium=android_app
@@ -170,8 +240,6 @@ https://mlwhiz.com/blog/2021/07/24/huggingface-bert/?utm_campaign=understanding-
 * https://blogs.oracle.com/ai-and-datascience/post/introduction-to-embedding-in-natural-language-processing
 * https://www.machinelearningplus.com/nlp/gensim-tutorial/#17howtocreatedocumentvectorsusingdoc2vec
 
-NLP augmentation
-https://www.reddit.com/r/LanguageTechnology/comments/jf89de/nlp_data_augmentation_best_practices_and_tricks/
 
 **Social media pretrained language model**
 https://www.linkedin.com/posts/kalyankatikapallisubramanyam_social-media-pretrained-language-models-activity-6952245642630942720-2G3z?utm_source=linkedin_share&utm_medium=android_app
@@ -179,8 +247,6 @@ https://www.linkedin.com/posts/kalyankatikapallisubramanyam_social-media-pretrai
 https://www.kaggle.com/code/hgilles06/a-doc2vec-search-engine-cord19-new-version
 https://github.com/asprenger/doc2vec
 https://stackoverflow.com/questions/57496250/doc2vec-object-has-no-attribute-get-latest-training-loss
-https://github.com/jhlau/doc2vec
 https://github.com/RelevanceAI/search_comparator
 https://groups.google.com/g/gensim/c/VsOeQDTvHTI?pli=1
 
-https://github.com/topics/nlp-machine-learning?l=jupyter+notebook&o=desc&s=forks
