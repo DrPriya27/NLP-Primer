@@ -33,6 +33,10 @@ df = df.sort_values('TF-IDF', ascending=False)
 
 ```
 Since the transformed TFIDF feature matrix comes out as a Scipy Compressed Sparse Row matrix, which can’t be viewed in its raw form, we have converted it into a Numpy array, via todense() operation after taking its transform. Similarly, we get the complete vocabulary of tokenized words via get_feature_names().
+Other references:
+* https://medium.com/web-mining-is688-spring-2021/cosine-similarity-and-tfidf-c2a7079e13fa 
+* https://iq.opengenus.org/document-similarity-tf-idf/ 
+* https://github.com/parthasm/Search-Engine-TF-IDF
 
 ### 3. [Word2Vec](https://arxiv.org/pdf/1301.3781.pdf)
 Neural Network based method to generate [word embeddings](https://neptune.ai/blog/word-embeddings-guide). In earlier two methods, semantics were completely ignored. With the introduction of Word2Vec, the vector representation of words was said to be contextually aware, probably for the first time ever.
@@ -56,10 +60,17 @@ custom_model = models.Word2Vec(sents, min_count=1,size=300,workers=4)
 
 ```
 good visualization [link](https://ronxin.github.io/wevi/)
+Other references:
+* https://jalammar.github.io/illustrated-word2vec/
+* https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial
+* https://medium.com/@makcedward/how-negative-sampling-work-on-word2vec-7bf8d545b116
 
 ### 4. Global Vectors for word representation [(GloVe)](https://nlp.stanford.edu/pubs/glove.pdf)
 It is also based on creating contextual word embeddings. Word2Vec is a window-based method, in which the model relies on local information for generating word embeddings, which in turn is limited to the window size that we choose. GloVe on the other hand captures both global and local statistics in order to come up with the word embeddings.
 
 
 https://neptune.ai/blog/vectorization-techniques-in-nlp-guide
+
+### 6. Doc2Vec
+
 
