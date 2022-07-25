@@ -168,6 +168,8 @@ https://www.linkedin.com/feed/update/urn:li:activity:6952569729702125568?utm_sou
 * https://www.analyticsvidhya.com/blog/2022/01/huggingface-transformer-model-using-amazon-sagemaker/
 * https://github.com/cmhungsteve/Awesome-Transformer-Attention#attention-for-vision
 * [BableNet] https://www.linkedin.com/posts/inna-vogel-nlp_nlp-ml-machinelearning-activity-6952199788230545408-Lt55?utm_source=linkedin_share&utm_medium=android_app
+* https://www.linkedin.com/posts/pradipnichite_freelancing-machinelearning-nlp-activity-6956878499609493504-hF9y/?utm_source=linkedin_share&utm_medium=android_app
+* https://www.linkedin.com/posts/sallu-mandya_nlp-naturallanguageprocessing-pretraining-activity-6956314171596566528-ppjE/?utm_source=linkedin_share&utm_medium=android_app
 
 **Open Source Framework for NLP**
 * https://www.linkedin.com/posts/sallu-mandya_4-open-source-frameworks-for-nlp-1-deeppavlov-activity-6940578424285462528-M_Yq/?utm_source=linkedin_share&utm_medium=android_app
@@ -245,6 +247,9 @@ https://groups.google.com/g/gensim/c/VsOeQDTvHTI?pli=1
 
 **Social media pretrained language model**
 https://www.linkedin.com/posts/kalyankatikapallisubramanyam_social-media-pretrained-language-models-activity-6952245642630942720-2G3z?utm_source=linkedin_share&utm_medium=android_app
+
+visual language model series
+https://www.linkedin.com/posts/prithivirajdamodaran_youtube-multimodalmodelling-activity-6955458307541110784-iBfh/?utm_source=linkedin_share&utm_medium=android_app
 
 
 
