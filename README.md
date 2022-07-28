@@ -170,6 +170,22 @@ https://www.linkedin.com/feed/update/urn:li:activity:6952569729702125568?utm_sou
 * [BableNet] https://www.linkedin.com/posts/inna-vogel-nlp_nlp-ml-machinelearning-activity-6952199788230545408-Lt55?utm_source=linkedin_share&utm_medium=android_app
 * https://www.linkedin.com/posts/pradipnichite_freelancing-machinelearning-nlp-activity-6956878499609493504-hF9y/?utm_source=linkedin_share&utm_medium=android_app
 * https://www.linkedin.com/posts/sallu-mandya_nlp-naturallanguageprocessing-pretraining-activity-6956314171596566528-ppjE/?utm_source=linkedin_share&utm_medium=android_app
+     
+     https://www.linkedin.com/feed/update/urn:li:activity:6954805435568726016/?utm_source=linkedin_share&utm_medium=android_app
+     
+     https://www.linkedin.com/feed/update/urn:li:activity:6957555980087775232/?utm_source=linkedin_share&utm_medium=android_app
+     
+     https://mlwhiz.com/blog/2020/10/10/create-transformer-from-scratch/?utm_campaign=understanding-transformers-the-programming-way&utm_medium=social_link&utm_source=missinglettr
+     
+     https://www.linkedin.com/posts/juliensimon_using-mlflow-with-hugging-face-transformers-activity-6953700965971595264--Qay/?utm_source=linkedin_share&utm_medium=android_app
+     
+     https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0
+     
+     https://aman.ai/primers/ai/transformers/
+     
+     https://www.kaggle.com/general/43832
+     
+     https://www.linkedin.com/posts/mgrootendorst_github-maartengrbertopic-leveraging-bert-activity-6952263932820533248-2zxG/?utm_source=linkedin_share&utm_medium=android_app
 
 **Open Source Framework for NLP**
 * https://www.linkedin.com/posts/sallu-mandya_4-open-source-frameworks-for-nlp-1-deeppavlov-activity-6940578424285462528-M_Yq/?utm_source=linkedin_share&utm_medium=android_app
@@ -202,7 +218,9 @@ practical NLP, Almost any machine learning problem ( 🚀 Abhishek Thakur), NLP 
 **Track and visualize your spaCy logs with AimStack**
 https://www.linkedin.com/posts/philipvollet_datascience-python-machinelearning-activity-6935873475802755073-teDh/?utm_source=linkedin_share&utm_medium=android_app
 
-
+https://www.kaggle.com/code/andreshg/nlp-glove-bert-tf-idf-lstm-explained
+     
+     https://datascience.stackexchange.com/questions/23969/sentence-similarity-prediction
 
 **BERT**
 https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
@@ -251,5 +269,7 @@ https://www.linkedin.com/posts/kalyankatikapallisubramanyam_social-media-pretrai
 visual language model series
 https://www.linkedin.com/posts/prithivirajdamodaran_youtube-multimodalmodelling-activity-6955458307541110784-iBfh/?utm_source=linkedin_share&utm_medium=android_app
 
-
+https://www.linkedin.com/posts/henrikwenck_nlp-github-opensource-activity-6954779128940130304-LHjp/?utm_source=linkedin_share&utm_medium=android_app
+     
+     https://www.linkedin.com/posts/jalammar_large-language-models-for-real-world-applications-activity-6957612986861514752-m38Q/?utm_source=linkedin_share&utm_medium=android_app
 
