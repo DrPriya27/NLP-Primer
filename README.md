@@ -3,10 +3,19 @@
  
 **NLP Different Applications Areas Demo and notebooks** 
 https://demo.allennlp.org/sentiment-analysis/glove-sentiment-analysis
+
+https://www.linkedin.com/posts/omarsar_machinelearning-ai-deeplearning-activity-6957710600093212672-87Gn/?utm_source=linkedin_share&utm_medium=android_app
+
+https://www.linkedin.com/posts/pradipnichite_spacy-sklearn-sklearn-activity-6959839485668810752-KEFS/?utm_source=linkedin_share&utm_medium=android_app
  
 **Curated Repository to track the progress in NLP**
 https://nlpprogress.com/
 
+https://www.linkedin.com/posts/vinija_notes-for-stanfords-natural-language-activity-6961553708736274432-8oB1/?utm_source=linkedin_share&utm_medium=android_app
+
+https://www.linkedin.com/posts/amanc_ai-artificialintelligence-machinelearning-activity-6961572522261692416-9Wtu/?utm_source=linkedin_share&utm_medium=android_app
+
+https://www.linkedin.com/posts/omarsar_machinelearning-deeplearning-ai-activity-6959502571866570752-yuj6/?utm_source=linkedin_share&utm_medium=android_app
 
 **Text Classification**
 [review paper] https://arxiv.org/abs/2008.00364
@@ -170,6 +179,16 @@ https://www.linkedin.com/feed/update/urn:li:activity:6952569729702125568?utm_sou
 * [BableNet] https://www.linkedin.com/posts/inna-vogel-nlp_nlp-ml-machinelearning-activity-6952199788230545408-Lt55?utm_source=linkedin_share&utm_medium=android_app
 * https://www.linkedin.com/posts/pradipnichite_freelancing-machinelearning-nlp-activity-6956878499609493504-hF9y/?utm_source=linkedin_share&utm_medium=android_app
 * https://www.linkedin.com/posts/sallu-mandya_nlp-naturallanguageprocessing-pretraining-activity-6956314171596566528-ppjE/?utm_source=linkedin_share&utm_medium=android_app
+* https://www.linkedin.com/posts/pradipnichite_gpt3-nlp-sentimentanalysis-activity-6960556271980695552-ASbH/?utm_source=linkedin_share&utm_medium=android_app
+
+https://www.linkedin.com/posts/pradipnichite_gpt3-nlp-sentimentanalysis-activity-6960556271980695552-ASbH/?utm_source=linkedin_share&utm_medium=android_app
+
+https://www.linkedin.com/posts/prithivirajdamodaran_microsofts-releases-an-extreme-model-compression-activity-6958407890470629376-DGuO/?utm_source=linkedin_share&utm_medium=android_app
+
+https://www.linkedin.com/posts/pradipnichite_nlp-bert-transformers-activity-6959044624933892096-Lk7m/?utm_source=linkedin_share&utm_medium=android_app
+
+https://www.linkedin.com/posts/akraimit_nlp-ai-artificialintelligence-activity-6958980977125703680-ojNo/?utm_source=linkedin_share&utm_medium=android_app
+
      
      https://www.linkedin.com/feed/update/urn:li:activity:6954805435568726016/?utm_source=linkedin_share&utm_medium=android_app
      
@@ -225,6 +244,7 @@ https://www.kaggle.com/code/andreshg/nlp-glove-bert-tf-idf-lstm-explained
 **BERT**
 https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
 https://mlwhiz.com/blog/2021/07/24/huggingface-bert/?utm_campaign=understanding-bert-with-huggingface&utm_medium=social_link&utm_source=missinglettr
+https://medium.com/analytics-vidhya/text-classification-with-bert-using-transformers-for-long-text-inputs-f54833994dfd
 [BERTTopic] https://www.linkedin.com/posts/mgrootendorst_github-maartengrbertopic-leveraging-bert-activity-6952263932820533248-2zxG?utm_source=linkedin_share&utm_medium=android_app
 [ALBERT, RoBERTa, and DistilBERT] https://www.linkedin.com/posts/towards-data-science_everything-you-need-to-know-about-albert-activity-6952080274117574656-XcFJ?utm_source=linkedin_share&utm_medium=android_app
 
@@ -263,6 +283,9 @@ https://stackoverflow.com/questions/57496250/doc2vec-object-has-no-attribute-get
 https://github.com/RelevanceAI/search_comparator
 https://groups.google.com/g/gensim/c/VsOeQDTvHTI?pli=1
 
+sentence trasformer
+https://www.linkedin.com/posts/pradipnichite_nlp-bert-transformers-activity-6961589141805383680-Ldy9/?utm_source=linkedin_share&utm_medium=android_app
+
 **Social media pretrained language model**
 https://www.linkedin.com/posts/kalyankatikapallisubramanyam_social-media-pretrained-language-models-activity-6952245642630942720-2G3z?utm_source=linkedin_share&utm_medium=android_app
 
@@ -273,3 +296,5 @@ https://www.linkedin.com/posts/henrikwenck_nlp-github-opensource-activity-695477
      
      https://www.linkedin.com/posts/jalammar_large-language-models-for-real-world-applications-activity-6957612986861514752-m38Q/?utm_source=linkedin_share&utm_medium=android_app
 
+aspect based sentiment analysis
+https://www.linkedin.com/posts/kalyankatikapallisubramanyam_nlproc-nlp-python-activity-6960764453596405760-Hcet/?utm_source=linkedin_share&utm_medium=android_app
