@@ -143,12 +143,29 @@ https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_python-nlp-opensource-
   
   </table> 
   
+  
+  ** semantic search**
+  https://www.linkedin.com/posts/marie-stephen-leo_arxiv-scientific-papers-vector-similarity-activity-6962970315194871808-7vGz/?utm_source=linkedin_share&utm_medium=android_app
+  
+  ** NLP with tensorflow**
+  * https://www.linkedin.com/posts/aishwarya-srinivasan_datascientist-tensorflow-development-activity-6963169068652642304-HecF/?utm_source=linkedin_share&utm_medium=android_app
+  
+**advance NLP in google sheet**
+* https://www.linkedin.com/feed/update/urn:li:activity:6962436940688216064/?utm_source=linkedin_share&utm_medium=android_app
+
+**ATLAS**
+https://www.linkedin.com/posts/metaai_today-were-introducing-atlas-a-new-retrieval-augmented-activity-6962490642044248064-e-1R/?utm_source=linkedin_share&utm_medium=android_app
+
  **NLP Notebooks**
 * https://github.com/dair-ai/ML-Notebooks#nlp
 * https://www.kaggle.com/getting-started/73813
 
 **Sentence Transformer**
 * https://www.sbert.net/
+* https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_deeplearning-machinelearning-transformers-activity-6963750322984906752-DNKy/?utm_source=linkedin_share&utm_medium=android_app
+
+**NLP primer**
+https://www.linkedin.com/feed/update/urn:li:activity:6964160940632109056/?utm_source=linkedin_share&utm_medium=android_app
 
 
 **All about Huggingface**
@@ -253,6 +270,7 @@ https://medium.com/analytics-vidhya/text-classification-with-bert-using-transfor
 
 **Vectorization techniques**
 * https://huggingface.co/docs/transformers/tokenizer_summary
+* https://www.linkedin.com/posts/ramsrig_evolution-of-word-and-sentence-vectors-in-ugcPost-6963149941795946496-9977/?utm_source=linkedin_share&utm_medium=android_app
 
 ** Doc2Vec
 * https://gab41.lab41.org/doc2vec-to-assess-semantic-similarity-in-source-code-667acb3e62d7
@@ -298,3 +316,7 @@ https://www.linkedin.com/posts/henrikwenck_nlp-github-opensource-activity-695477
 
 aspect based sentiment analysis
 https://www.linkedin.com/posts/kalyankatikapallisubramanyam_nlproc-nlp-python-activity-6960764453596405760-Hcet/?utm_source=linkedin_share&utm_medium=android_app
+
+
+NLP trick top kagglers
+https://www.linkedin.com/posts/sanyambhutani_if-youre-interested-in-learning-some-nlp-activity-6963513467173486594-xR4W/?utm_source=linkedin_share&utm_medium=android_app
