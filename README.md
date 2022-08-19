@@ -9,143 +9,21 @@ https://demo.allennlp.org/sentiment-analysis/glove-sentiment-analysis
 **Curated Repository to track the progress in NLP**
 https://nlpprogress.com/
 
-
-https://www.linkedin.com/posts/amanc_ai-artificialintelligence-machinelearning-activity-6961572522261692416-9Wtu/?utm_source=linkedin_share&utm_medium=android_app
-
-https://www.linkedin.com/posts/omarsar_machinelearning-deeplearning-ai-activity-6959502571866570752-yuj6/?utm_source=linkedin_share&utm_medium=android_app
+**Neural Information Reterival**
+ https://arxiv.org/abs/2207.13443v1
 
 **Text Classification**
-[review paper] https://arxiv.org/abs/2008.00364
+https://arxiv.org/abs/2008.00364
 
 **Semantic Search**
-https://www.pinecone.io/learn/nlp/
+* https://www.pinecone.io/learn/nlp/
+* https://www.linkedin.com/posts/marie-stephen-leo_arxiv-scientific-papers-vector-similarity-activity-6962970315194871808-7vGz/?utm_source=linkedin_share&utm_medium=android_app
 
 **Analizing Stanza NER pipelines with Rubrix**
 https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_python-nlp-opensource-activity-6935122333355413504-_JEo/?utm_source=linkedin_share&utm_medium=android_app
 
- 
-**Sharing popular NLP courses freely available:-**
-
-<table class="tg">
-  <tr>
-    <th class="tg-yw4l"><b>Name</b></th>
-    <th class="tg-yw4l"><b>Website Link</b></th>
-    <th class="tg-yw4l"><b>Video Link</b></th>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">Hugging Face</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o">Video<a></td>
-  </tr>
-      
-  <tr>
-    <td class="tg-yw4l">CS224N-NLP with Deep Learning</td>
-    <td class="tg-yw4l"><a href="https://vinija.ai/nlp/  ">Notes<a></td>  
-    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ ">Video<a></td>
-  </tr>
-      
-   <tr>
-    <td class="tg-yw4l">CMU Neural Networks for NLP</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV">Video<a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">CS224U-Natural Language Understanding</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ">Video<a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">CMU Advanced NLP</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6">Video<a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">Multilingual NLP</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7">Video<a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">Advanced NLP</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL">Video<a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">Coursera NLP specialization</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"><a href="https://www.coursera.org/specializations/natural-language-processing">Video<a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">CS25: Transformers United</td>
-    <td class="tg-yw4l"><a href="https://web.stanford.edu/class/cs25/">Website<a></td>
-    <td class="tg-yw4l"></td>
-  </tr>
- 
-  </table> 
-  
-  **Sharing popular NLP notebooks freely available:-**
-
-<table class="tg">
-  <tr>
-    <th class="tg-yw4l"><b>Description</b></th>
-    <th class="tg-yw4l"><b>Link</b></th>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">MIcrosoft</td>
-    <td class="tg-yw4l"><a href="https://github.com/microsoft/nlp-recipes">Github<a></td>
-  </tr>
-      
-  <tr>
-    <td class="tg-yw4l">NLP Town</td>
-    <td class="tg-yw4l"><a href="https://github.com/nlptown/nlp-notebooks">Github<a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">Dair-AI</td>
-    <td class="tg-yw4l"><a href="https://github.com/dair-ai/ML-Course-Notes">Github<a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">7 NLP basic techiques in python</td>
-    <td class="tg-yw4l"><a href="https://towardsdatascience.com/7-nlp-techniques-you-can-easily-implement-with-python-dc0ade1a53c2">Towards Data Science<a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">Text Classification</td>
-    <td class="tg-yw4l"><a href="https://github.com/raghavbali/workshop_text_classification">Github<a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">Text Classification (Sentiment Analysis) with Transformers</td>
-    <td class="tg-yw4l"><a href="https://github.com/dipanjanS/adv_nlp_workshop_odsc_europe22/blob/main/10_NLP_Applications_Text_Classification_with_Transformers.ipynb">Github<a></td>
-  </tr>  
-  
-  <tr>
-    <td class="tg-yw4l">kkk</td>
-    <td class="tg-yw4l"><a href="https://github.com/topics/nlp-machine-learning?l=jupyter+notebook&o=desc&s=forks">Github<a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">Sentence Embeddings</td>
-    <td class="tg-yw4l"><a href="https://github.com/jhlau/doc2vec">Github<a></td>
-  </tr>
-  
-  
-  </table> 
-  
-  
-  ** semantic search**
-  https://www.linkedin.com/posts/marie-stephen-leo_arxiv-scientific-papers-vector-similarity-activity-6962970315194871808-7vGz/?utm_source=linkedin_share&utm_medium=android_app
-  
-  ** NLP with tensorflow**
-  * https://www.linkedin.com/posts/aishwarya-srinivasan_datascientist-tensorflow-development-activity-6963169068652642304-HecF/?utm_source=linkedin_share&utm_medium=android_app
+**NLP with tensorflow book**
+https://www.linkedin.com/posts/aishwarya-srinivasan_datascientist-tensorflow-development-activity-6963169068652642304-HecF/?utm_source=linkedin_share&utm_medium=android_app
   
 **advance NLP in google sheet**
 * https://www.linkedin.com/feed/update/urn:li:activity:6962436940688216064/?utm_source=linkedin_share&utm_medium=android_app
@@ -153,8 +31,8 @@ https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_python-nlp-opensource-
 **ATLAS**
 https://www.linkedin.com/posts/metaai_today-were-introducing-atlas-a-new-retrieval-augmented-activity-6962490642044248064-e-1R/?utm_source=linkedin_share&utm_medium=android_app
 
- **NLP Notebooks**
-* https://github.com/dair-ai/ML-Notebooks#nlp
+ **NLP Famous Blogs**
+* 
 * https://www.kaggle.com/getting-started/73813
 
 **Sentence Transformer**
@@ -317,3 +195,125 @@ https://www.linkedin.com/posts/kalyankatikapallisubramanyam_nlproc-nlp-python-ac
 
 NLP trick top kagglers
 https://www.linkedin.com/posts/sanyambhutani_if-youre-interested-in-learning-some-nlp-activity-6963513467173486594-xR4W/?utm_source=linkedin_share&utm_medium=android_app
+
+https://github.com/dair-ai/ML-Notebooks#nlp
+ 
+**Sharing popular NLP courses freely available:-**
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Name</b></th>
+    <th class="tg-yw4l"><b>Website Link</b></th>
+    <th class="tg-yw4l"><b>Video Link</b></th>
+  </tr>
+ 
+
+  
+  <tr>
+    <td class="tg-yw4l">Hugging Face</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o">Video<a></td>
+  </tr>
+      
+  <tr>
+    <td class="tg-yw4l">CS224N-NLP with Deep Learning</td>
+    <td class="tg-yw4l"><a href="https://vinija.ai/nlp/  ">Notes<a></td>  
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ ">Video<a></td>
+  </tr>
+      
+   <tr>
+    <td class="tg-yw4l">CMU Neural Networks for NLP</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV">Video<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">CS224U-Natural Language Understanding</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ">Video<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">CMU Advanced NLP</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6">Video<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Multilingual NLP</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7">Video<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Advanced NLP</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL">Video<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Coursera NLP specialization</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://www.coursera.org/specializations/natural-language-processing">Video<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">CS25: Transformers United</td>
+    <td class="tg-yw4l"><a href="https://web.stanford.edu/class/cs25/">Website<a></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+ 
+  </table> 
+  
+  **Sharing popular NLP notebooks freely available:-**
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Link</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">MIcrosoft</td>
+    <td class="tg-yw4l"><a href="https://github.com/microsoft/nlp-recipes">Github<a></td>
+  </tr>
+      
+  <tr>
+    <td class="tg-yw4l">NLP Town</td>
+    <td class="tg-yw4l"><a href="https://github.com/nlptown/nlp-notebooks">Github<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Dair-AI</td>
+    <td class="tg-yw4l"><a href="https://github.com/dair-ai/ML-Course-Notes">Github<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">7 NLP basic techiques in python</td>
+    <td class="tg-yw4l"><a href="https://towardsdatascience.com/7-nlp-techniques-you-can-easily-implement-with-python-dc0ade1a53c2">Towards Data Science<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Text Classification</td>
+    <td class="tg-yw4l"><a href="https://github.com/raghavbali/workshop_text_classification">Github<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Text Classification (Sentiment Analysis) with Transformers</td>
+    <td class="tg-yw4l"><a href="https://github.com/dipanjanS/adv_nlp_workshop_odsc_europe22/blob/main/10_NLP_Applications_Text_Classification_with_Transformers.ipynb">Github<a></td>
+  </tr>  
+  
+  <tr>
+    <td class="tg-yw4l">kkk</td>
+    <td class="tg-yw4l"><a href="https://github.com/topics/nlp-machine-learning?l=jupyter+notebook&o=desc&s=forks">Github<a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Sentence Embeddings</td>
+    <td class="tg-yw4l"><a href="https://github.com/jhlau/doc2vec">Github<a></td>
+  </tr>
+  
+  
+  </table> 
+  
+  
