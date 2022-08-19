@@ -4,7 +4,9 @@
 **NLP Different Applications Areas Demo and notebooks** 
 https://demo.allennlp.org/sentiment-analysis/glove-sentiment-analysis
 
-**NLP Complete Syllabus** https://www.linkedin.com/posts/pradipnichite_spacy-sklearn-sklearn-activity-6959839485668810752-KEFS/?utm_source=linkedin_share&utm_medium=android_app
+**NLP Complete Syllabus** 
+* https://www.linkedin.com/posts/pradipnichite_spacy-sklearn-sklearn-activity-6959839485668810752-KEFS/?utm_source=linkedin_share&utm_medium=android_app
+* https://www.linkedin.com/feed/update/urn:li:activity:6964160940632109056/?utm_source=linkedin_share&utm_medium=android_app
  
 **Curated Repository to track the progress in NLP**
 https://nlpprogress.com/
@@ -32,19 +34,14 @@ https://www.linkedin.com/posts/aishwarya-srinivasan_datascientist-tensorflow-dev
 https://www.linkedin.com/posts/metaai_today-were-introducing-atlas-a-new-retrieval-augmented-activity-6962490642044248064-e-1R/?utm_source=linkedin_share&utm_medium=android_app
 
  **NLP Famous Blogs**
-* 
-* https://www.kaggle.com/getting-started/73813
+https://www.kaggle.com/getting-started/73813
 
 **Sentence Transformer**
 * https://www.sbert.net/
 * https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_deeplearning-machinelearning-transformers-activity-6963750322984906752-DNKy/?utm_source=linkedin_share&utm_medium=android_app
 
-**NLP primer**
-https://www.linkedin.com/feed/update/urn:li:activity:6964160940632109056/?utm_source=linkedin_share&utm_medium=android_app
-
-
 **All about Huggingface**
-* https://jarvislabs.ai/blogs/hf-getting-started/
+https://jarvislabs.ai/blogs/hf-getting-started/
 
 **Hugging Face Transformers**
 
@@ -73,11 +70,11 @@ https://www.linkedin.com/feed/update/urn:li:activity:6952569729702125568?utm_sou
 * https://www.linkedin.com/posts/sallu-mandya_nlp-naturallanguageprocessing-pretraining-activity-6956314171596566528-ppjE/?utm_source=linkedin_share&utm_medium=android_app
 * https://www.linkedin.com/posts/pradipnichite_gpt3-nlp-sentimentanalysis-activity-6960556271980695552-ASbH/?utm_source=linkedin_share&utm_medium=android_app
 
-https://www.linkedin.com/posts/pradipnichite_gpt3-nlp-sentimentanalysis-activity-6960556271980695552-ASbH/?utm_source=linkedin_share&utm_medium=android_app
+* [GPT-3] https://www.linkedin.com/posts/pradipnichite_gpt3-nlp-sentimentanalysis-activity-6960556271980695552-ASbH/?utm_source=linkedin_share&utm_medium=android_app
 
-https://www.linkedin.com/posts/prithivirajdamodaran_microsofts-releases-an-extreme-model-compression-activity-6958407890470629376-DGuO/?utm_source=linkedin_share&utm_medium=android_app
+* [Extreme model Compression library] https://www.linkedin.com/posts/prithivirajdamodaran_microsofts-releases-an-extreme-model-compression-activity-6958407890470629376-DGuO/?utm_source=linkedin_share&utm_medium=android_app
 
-https://www.linkedin.com/posts/pradipnichite_nlp-bert-transformers-activity-6959044624933892096-Lk7m/?utm_source=linkedin_share&utm_medium=android_app
+* [video on hugging face transformer] https://www.linkedin.com/posts/pradipnichite_nlp-bert-transformers-activity-6959044624933892096-Lk7m/?utm_source=linkedin_share&utm_medium=android_app
 
 https://www.linkedin.com/posts/akraimit_nlp-ai-artificialintelligence-activity-6958980977125703680-ojNo/?utm_source=linkedin_share&utm_medium=android_app
 
