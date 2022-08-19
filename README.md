@@ -4,14 +4,11 @@
 **NLP Different Applications Areas Demo and notebooks** 
 https://demo.allennlp.org/sentiment-analysis/glove-sentiment-analysis
 
-https://www.linkedin.com/posts/omarsar_machinelearning-ai-deeplearning-activity-6957710600093212672-87Gn/?utm_source=linkedin_share&utm_medium=android_app
-
-https://www.linkedin.com/posts/pradipnichite_spacy-sklearn-sklearn-activity-6959839485668810752-KEFS/?utm_source=linkedin_share&utm_medium=android_app
+**NLP Complete Syllabus** https://www.linkedin.com/posts/pradipnichite_spacy-sklearn-sklearn-activity-6959839485668810752-KEFS/?utm_source=linkedin_share&utm_medium=android_app
  
 **Curated Repository to track the progress in NLP**
 https://nlpprogress.com/
 
-https://www.linkedin.com/posts/vinija_notes-for-stanfords-natural-language-activity-6961553708736274432-8oB1/?utm_source=linkedin_share&utm_medium=android_app
 
 https://www.linkedin.com/posts/amanc_ai-artificialintelligence-machinelearning-activity-6961572522261692416-9Wtu/?utm_source=linkedin_share&utm_medium=android_app
 
@@ -44,7 +41,7 @@ https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_python-nlp-opensource-
       
   <tr>
     <td class="tg-yw4l">CS224N-NLP with Deep Learning</td>
-    <td class="tg-yw4l"><a href="https://web.stanford.edu/class/cs224n/">Website<a></td>
+    <td class="tg-yw4l"><a href="https://vinija.ai/nlp/  ">Notes<a></td>  
     <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ ">Video<a></td>
   </tr>
       
