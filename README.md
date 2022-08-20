@@ -28,7 +28,7 @@ https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_python-nlp-opensource-
 https://www.linkedin.com/posts/aishwarya-srinivasan_datascientist-tensorflow-development-activity-6963169068652642304-HecF/?utm_source=linkedin_share&utm_medium=android_app
   
 **advance NLP in google sheet**
-* https://www.linkedin.com/feed/update/urn:li:activity:6962436940688216064/?utm_source=linkedin_share&utm_medium=android_app
+https://www.linkedin.com/feed/update/urn:li:activity:6962436940688216064/?utm_source=linkedin_share&utm_medium=android_app
 
 **ATLAS**
 https://www.linkedin.com/posts/metaai_today-were-introducing-atlas-a-new-retrieval-augmented-activity-6962490642044248064-e-1R/?utm_source=linkedin_share&utm_medium=android_app
@@ -41,7 +41,12 @@ https://www.kaggle.com/getting-started/73813
 * https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_deeplearning-machinelearning-transformers-activity-6963750322984906752-DNKy/?utm_source=linkedin_share&utm_medium=android_app
 
 **All about Huggingface**
-https://jarvislabs.ai/blogs/hf-getting-started/
+* https://jarvislabs.ai/blogs/hf-getting-started/
+* https://github.com/huggingface/transformers
+* https://github.com/huggingface/course
+* https://huggingface.co/docs/transformers/v4.19.2/en/main_classes/pipelines#transformers.ZeroShotClassificationPipeline
+* https://theaisummer.com/hugging-face-vit/
+* https://discuss.huggingface.co/
 
 **Hugging Face Transformers**
 
@@ -49,51 +54,37 @@ https://jarvislabs.ai/blogs/hf-getting-started/
 * [Transformers library implemented in PyTorch] (https://github.com/NielsRogge/Transformers-Tutorials)
 * [NVIDIA Triton Ensemble Model for deploying Transformers into production) (https://blog.ml6.eu/triton-ensemble-model-for-deploying-transformers-into-production-c0f727c012e3) (https://www.linkedin.com/posts/ml6team_ml6-ml6team-onnx-activity-6940584701862526976-kr3k/?utm_source=linkedin_share&utm_medium=android_app)
 * Accelerating Transformers (https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_machinelearning-deeplearning-huggingface-activity-6940344888504795136-pChc/?utm_source=linkedin_share&utm_medium=android_app)
-* https://github.com/huggingface/transformers
-* [GPT-3] https://www.linkedin.com/feed/update/urn:li:activity:6942773905090588672
-* https://huggingface.co/docs/transformers/v4.19.2/en/main_classes/pipelines#transformers.ZeroShotClassificationPipeline
+* [GPT-3] (https://www.linkedin.com/feed/update/urn:li:activity:6942773905090588672) (https://www.linkedin.com/posts/pradipnichite_gpt3-nlp-sentimentanalysis-activity-6960556271980695552-ASbH/?utm_source=linkedin_share&utm_medium=android_app)
 * [KeyPhraseTrasformer] https://huggingface.co/spaces/snrspeaks/KeyPhraseTransformer
 * [ul2] https://huggingface.co/google/ul2
 * [CodeGen] https://www.linkedin.com/posts/kalyankatikapallisubramanyam_salesforce-nlproc-nlp-activity-6947728806883250176-z85z?utm_source=linkedin_share&utm_medium=android_app
 * [Visualizing transformer BertViz] https://www.linkedin.com/posts/giorgiotorre1234_technology-nlp-machinelearning-activity-6951975662056263680-nxHF?utm_source=linkedin_share&utm_medium=android_app
-* [BLOOM] https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_machinelearning-deeplearning-opensource-activity-6948730421803163648-4CTv?utm_source=linkedin_share&utm_medium=android_app
-https://www.linkedin.com/feed/update/urn:li:activity:6952569729702125568?utm_source=linkedin_share&utm_medium=android_app
+* [BLOOM] (https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_machinelearning-deeplearning-opensource-activity-6948730421803163648-4CTv?utm_source=linkedin_share&utm_medium=android_app) (https://www.linkedin.com/feed/update/urn:li:activity:6952569729702125568?utm_source=linkedin_share&utm_medium=android_app)
 * [Hugging face tracking performance] https://wandb.ai/jxmorris12/huggingface-demo/reports/A-Step-by-Step-Guide-to-Tracking-Hugging-Face-Model-Performance--VmlldzoxMDE2MTU
-* https://github.com/huggingface/transformers
-* https://github.com/huggingface/course
-* https://theaisummer.com/hugging-face-vit/
-* https://discuss.huggingface.co/
-* https://www.analyticsvidhya.com/blog/2022/01/huggingface-transformer-model-using-amazon-sagemaker/
-* https://github.com/cmhungsteve/Awesome-Transformer-Attention#attention-for-vision
+* [Hugging face with Amazon sagemaker] https://www.analyticsvidhya.com/blog/2022/01/huggingface-transformer-model-using-amazon-sagemaker/
+* [Transformer attention] https://github.com/cmhungsteve/Awesome-Transformer-Attention#attention-for-vision
 * [BableNet] https://www.linkedin.com/posts/inna-vogel-nlp_nlp-ml-machinelearning-activity-6952199788230545408-Lt55?utm_source=linkedin_share&utm_medium=android_app
-* https://www.linkedin.com/posts/pradipnichite_freelancing-machinelearning-nlp-activity-6956878499609493504-hF9y/?utm_source=linkedin_share&utm_medium=android_app
-* https://www.linkedin.com/posts/sallu-mandya_nlp-naturallanguageprocessing-pretraining-activity-6956314171596566528-ppjE/?utm_source=linkedin_share&utm_medium=android_app
-* https://www.linkedin.com/posts/pradipnichite_gpt3-nlp-sentimentanalysis-activity-6960556271980695552-ASbH/?utm_source=linkedin_share&utm_medium=android_app
-
-* [GPT-3] https://www.linkedin.com/posts/pradipnichite_gpt3-nlp-sentimentanalysis-activity-6960556271980695552-ASbH/?utm_source=linkedin_share&utm_medium=android_app
-
 * [Extreme model Compression library] https://www.linkedin.com/posts/prithivirajdamodaran_microsofts-releases-an-extreme-model-compression-activity-6958407890470629376-DGuO/?utm_source=linkedin_share&utm_medium=android_app
+* [VIT] https://www.linkedin.com/feed/update/urn:li:activity:6957555980087775232/?utm_source=linkedin_share&utm_medium=android_app
+* [MLFlow with Tensorflow] https://www.linkedin.com/posts/juliensimon_using-mlflow-with-hugging-face-transformers-activity-6953700965971595264--Qay/?utm_source=linkedin_share&utm_medium=android_app
 
-* [video on hugging face transformer] https://www.linkedin.com/posts/pradipnichite_nlp-bert-transformers-activity-6959044624933892096-Lk7m/?utm_source=linkedin_share&utm_medium=android_app
 
-https://www.linkedin.com/posts/akraimit_nlp-ai-artificialintelligence-activity-6958980977125703680-ojNo/?utm_source=linkedin_share&utm_medium=android_app
+[Pradeep Nichite] (https://www.linkedin.com/posts/pradipnichite_freelancing-machinelearning-nlp-activity-6956878499609493504-hF9y/?utm_source=linkedin_share&utm_medium=android_app)(https://www.linkedin.com/posts/pradipnichite_nlp-bert-transformers-activity-6959044624933892096-Lk7m/?utm_source=linkedin_share&utm_medium=android_app) (https://www.linkedin.com/posts/pradipnichite_gpt3-nlp-sentimentanalysis-activity-6960556271980695552-ASbH/?utm_source=linkedin_share&utm_medium=android_app)
+[Book] https://www.linkedin.com/posts/sallu-mandya_nlp-naturallanguageprocessing-pretraining-activity-6956314171596566528-ppjE/?utm_source=linkedin_share&utm_medium=android_app
+
+
+
+[Transformer cheetsheet] (https://www.linkedin.com/posts/akraimit_nlp-ai-artificialintelligence-activity-6958980977125703680-ojNo/?utm_source=linkedin_share&utm_medium=android_app) (https://mlwhiz.com/blog/2020/10/10/create-transformer-from-scratch/?utm_campaign=understanding-transformers-the-programming-way&utm_medium=social_link&utm_source=missinglettr) (https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0) (https://aman.ai/primers/ai/transformers/)
+[Attention vs self attention] https://mlnotes.substack.com/p/data-science-interview-challenge-21c?r=sthrr&s=w&utm_campaign=post&utm_medium=web
 
      
-     https://www.linkedin.com/feed/update/urn:li:activity:6954805435568726016/?utm_source=linkedin_share&utm_medium=android_app
      
-     https://www.linkedin.com/feed/update/urn:li:activity:6957555980087775232/?utm_source=linkedin_share&utm_medium=android_app
      
-     https://mlwhiz.com/blog/2020/10/10/create-transformer-from-scratch/?utm_campaign=understanding-transformers-the-programming-way&utm_medium=social_link&utm_source=missinglettr
      
-     https://www.linkedin.com/posts/juliensimon_using-mlflow-with-hugging-face-transformers-activity-6953700965971595264--Qay/?utm_source=linkedin_share&utm_medium=android_app
-     
-     https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0
-     
-     https://aman.ai/primers/ai/transformers/
      
      https://www.kaggle.com/general/43832
      
-     https://www.linkedin.com/posts/mgrootendorst_github-maartengrbertopic-leveraging-bert-activity-6952263932820533248-2zxG/?utm_source=linkedin_share&utm_medium=android_app
+    
 
 **Open Source Framework for NLP**
 * https://www.linkedin.com/posts/sallu-mandya_4-open-source-frameworks-for-nlp-1-deeppavlov-activity-6940578424285462528-M_Yq/?utm_source=linkedin_share&utm_medium=android_app
@@ -134,7 +125,7 @@ https://www.kaggle.com/code/andreshg/nlp-glove-bert-tf-idf-lstm-explained
 https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
 https://mlwhiz.com/blog/2021/07/24/huggingface-bert/?utm_campaign=understanding-bert-with-huggingface&utm_medium=social_link&utm_source=missinglettr
 https://medium.com/analytics-vidhya/text-classification-with-bert-using-transformers-for-long-text-inputs-f54833994dfd
-[BERTTopic] https://www.linkedin.com/posts/mgrootendorst_github-maartengrbertopic-leveraging-bert-activity-6952263932820533248-2zxG?utm_source=linkedin_share&utm_medium=android_app
+[BERTTopic] (https://www.linkedin.com/posts/mgrootendorst_github-maartengrbertopic-leveraging-bert-activity-6952263932820533248-2zxG?utm_source=linkedin_share&utm_medium=android_app) ( https://www.linkedin.com/posts/mgrootendorst_github-maartengrbertopic-leveraging-bert-activity-6952263932820533248-2zxG/?utm_source=linkedin_share&utm_medium=android_app)
 [ALBERT, RoBERTa, and DistilBERT] https://www.linkedin.com/posts/towards-data-science_everything-you-need-to-know-about-albert-activity-6952080274117574656-XcFJ?utm_source=linkedin_share&utm_medium=android_app
 
 **Key concept text pre-processing**
