@@ -212,6 +212,8 @@ https://www.linkedin.com/posts/kalyankatikapallisubramanyam_nlproc-nlp-python-ac
 NLP trick top kagglers
 https://www.linkedin.com/posts/sanyambhutani_if-youre-interested-in-learning-some-nlp-activity-6963513467173486594-xR4W/?utm_source=linkedin_share&utm_medium=android_app
 
+https://www.linkedin.com/posts/ramsrig_question-generation-using-natural-language-activity-6967729559974670336-p4zc/?utm_source=share&utm_medium=member_android
+
 https://github.com/dair-ai/ML-Notebooks#nlp
  
 **Sharing popular NLP courses freely available:-**
