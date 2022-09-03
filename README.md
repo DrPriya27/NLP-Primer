@@ -4,6 +4,21 @@
 **NLP Different Applications Areas Demo and notebooks** 
 https://demo.allennlp.org/sentiment-analysis/glove-sentiment-analysis
 
+** Custom NER model
+https://techmusings.optisolbusiness.com/how-to-build-a-custom-ner-model-6425d9b271cf
+
+** data visualization course
+https://www.linkedin.com/posts/ramsrig_data-visualization-and-dimensionality-reduction-activity-6968825891871223808-nAo-/?utm_source=share&utm_medium=member_android
+
+** spacy cleaner
+https://www.linkedin.com/feed/update/urn:li:activity:6970261738210373632/?utm_source=share&utm_medium=member_android
+
+**Texthero
+https://www.linkedin.com/posts/kalyankatikapallisubramanyam_nlproc-nlp-textpreprocessing-activity-6970951944181866496-IcQx/?utm_source=share&utm_medium=member_android
+
+** build first nlp model
+https://www.linkedin.com/posts/pradipnichite_nlp-machinelearning-artificialintelligence-activity-6970364976892899328-qzAW/?utm_source=share&utm_medium=member_android
+
 **NLP Complete Syllabus** 
 * https://www.linkedin.com/posts/pradipnichite_spacy-sklearn-sklearn-activity-6959839485668810752-KEFS/?utm_source=linkedin_share&utm_medium=android_app
 * https://www.linkedin.com/feed/update/urn:li:activity:6964160940632109056/?utm_source=linkedin_share&utm_medium=android_app
