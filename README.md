@@ -31,6 +31,10 @@ https://nlpprogress.com/
 
 **Text Classification**
 https://arxiv.org/abs/2008.00364
+https://encyclopedia.pub/entry/957
+
+**small text**
+https://www.linkedin.com/posts/activity-6982372132273975296-ygCP/?utm_source=share&utm_medium=member_android
 
 **Semantic Search**
 * https://www.pinecone.io/learn/nlp/
