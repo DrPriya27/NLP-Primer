@@ -4,6 +4,59 @@
 **NLP Different Applications Areas Demo and notebooks** 
 https://demo.allennlp.org/sentiment-analysis/glove-sentiment-analysis
 
+**NLP roadmap**
+https://www.linkedin.com/posts/ramsrig_naturallanguageprocessing-nlp-datascience-activity-6981480266406010880-nPQU/?utm_source=share&utm_medium=member_android
+
+**Conjuctive adverb**
+https://grammar.yourdictionary.com/parts-of-speech/adverbs/con-adverb.html
+https://stackoverflow.com/questions/62938465/nlp-problems-to-handle-sentence-with-conjunctions
+
+**splitting sentences into clauses**
+https://subscription.packtpub.com/book/data/9781838987312/2/ch02lvl1sec13/splitting-sentences-into-clauses
+https://towardsdatascience.com/nlp-splitting-text-into-sentences-7bbce222ef17
+
+**word embedding**
+https://www.linkedin.com/posts/puspanjalisarma_nlp-datascience-artificialintelligence-activity-6981164409419149313-fwH9/?utm_source=share&utm_medium=member_android
+https://www.linkedin.com/posts/lavanyats_bert-vs-word2vec-embeddings-activity-6978221983201185793-aiat/?utm_source=share&utm_medium=member_android
+https://www.linkedin.com/posts/jalammar_the-illustrated-word2vec-a-gentle-intro-activity-6977227264614666240-t9WD/?utm_source=share&utm_medium=member_android
+https://medium.com/nlplanet/two-minutes-nlp-11-word-embeddings-models-you-should-know-a0581763b9a9
+https://www.linkedin.com/posts/activity-6974001281262604288-2g3Y/?utm_source=share&utm_medium=member_android
+
+**NLP papers**
+https://www.linkedin.com/posts/tanul-singh_deberta-is-the-new-king-jarvislabsai-activity-6953002403394658304--LAj/?utm_source=share&utm_medium=member_android
+
+https://indiaai.gov.in/article/natural-language-processing-nlp-simplified-a-step-by-step-guide
+
+**context nlp**
+https://www.lexalytics.com/blog/context-analysis-nlp/
+
+**grab sentence meaning
+https://stackoverflow.com/questions/52280334/how-to-grab-meaning-of-sentence-using-nlp
+
+**entity extraction
+https://opensenselabs.com/blog/tech/entity-extraction-using-nlp-python
+
+
+**text visualization**
+https://www.linkedin.com/posts/abhishek-kumar-annamraju_textanalysis-visualization-deeplearning-activity-6981182864839122944-Lhca/?utm_source=share&utm_medium=member_android
+
+**pretrained language model list**
+https://www.linkedin.com/posts/kalyankatikapallisubramanyam_nlproc-nlp-deeplearning-activity-6980350598999142400-4W82/?utm_source=share&utm_medium=member_android
+
+**NLP with spacy cheatsheet**
+https://www.linkedin.com/posts/dipanzan_spacy-cheat-sheet-activity-6980543013622063105-6Krh/?utm_source=share&utm_medium=member_android
+
+**transformer**
+https://www.linkedin.com/posts/prithivirajdamodaran_transformers-beat-cnns-then-cnns-beat-transformers-activity-6978949490837757952-t1JT/?utm_source=share&utm_medium=member_android
+
+**attention**
+https://www.linkedin.com/posts/ugcPost-6978485357390512128-2w58/?utm_source=share&utm_medium=member_android
+https://www.linkedin.com/posts/sudalairajkumar_deeplearning-activity-6977875090705133568-VCFl/?utm_source=share&utm_medium=member_android
+
+**paper**
+https://www.linkedin.com/posts/iamvikramgupta_happy-to-share-that-our-work-multilingual-activity-6976977007880404992-TEsj/?utm_source=share&utm_medium=member_android
+
+
 ** Custom NER model
 https://techmusings.optisolbusiness.com/how-to-build-a-custom-ner-model-6425d9b271cf
 
@@ -26,12 +79,21 @@ https://www.linkedin.com/posts/pradipnichite_nlp-machinelearning-artificialintel
 **Curated Repository to track the progress in NLP**
 https://nlpprogress.com/
 
+**understanding top kaggle solution**
+https://www.linkedin.com/posts/sanyambhutani_understanding-top-nlp-solutions-and-tricks-activity-6973647614185545728-FjMR/?utm_source=share&utm_medium=member_android
+
 **Neural Information Reterival**
  https://arxiv.org/abs/2207.13443v1
 
 **Text Classification**
 https://arxiv.org/abs/2008.00364
 https://encyclopedia.pub/entry/957
+https://towardsdatascience.com/sbert-vs-data2vec-on-text-classification-e3c35b19c949
+https://neptune.ai/blog/text-classification-tips-and-tricks-kaggle-competitions
+https://neptune.ai/blog/document-classification-small-datasets
+
+**Top2Vec**
+https://medium.com/@ThiyaneshwaranG/top2vec-for-topic-modeling-and-semantic-similarity-and-search-77db82dda7d3
 
 **small text**
 https://www.linkedin.com/posts/activity-6982372132273975296-ygCP/?utm_source=share&utm_medium=member_android
@@ -45,6 +107,9 @@ https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_python-nlp-opensource-
 
 **NLP with tensorflow book**
 https://www.linkedin.com/posts/aishwarya-srinivasan_datascientist-tensorflow-development-activity-6963169068652642304-HecF/?utm_source=linkedin_share&utm_medium=android_app
+
+**NL understanding course**
+https://www.linkedin.com/posts/abhishek-kumar-annamraju_naturallanguageprocessing-naturallanguage-activity-6982575835899707393-sZmb/?utm_source=share&utm_medium=member_android
   
 **advance NLP in google sheet**
 https://www.linkedin.com/feed/update/urn:li:activity:6962436940688216064/?utm_source=linkedin_share&utm_medium=android_app
@@ -58,6 +123,7 @@ https://www.kaggle.com/getting-started/73813
 **Sentence Transformer**
 * https://www.sbert.net/
 * https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_deeplearning-machinelearning-transformers-activity-6963750322984906752-DNKy/?utm_source=linkedin_share&utm_medium=android_app
+https://www.linkedin.com/posts/amanc_nlp-artificialintelligence-machinelearning-activity-6976761397317709824-OQm2/?utm_source=share&utm_medium=member_android
 
 **All about Huggingface**
 * https://jarvislabs.ai/blogs/hf-getting-started/
@@ -68,6 +134,20 @@ https://www.kaggle.com/getting-started/73813
 * https://discuss.huggingface.co/
 
 **Hugging Face Transformers**
+https://www.linkedin.com/posts/nathan-raw_huggingface-opensource-datasets-activity-6975494778725515265-2uYl/?utm_source=share&utm_medium=member_android
+https://www.linkedin.com/posts/puspanjalisarma_a-framework-for-designing-document-processing-activity-6975373818387152896-8i-O/?utm_source=share&utm_medium=member_android
+
+GPT3
+https://www.linkedin.com/posts/agustinus-nalwan_20b-parameter-alexa-model-sets-new-marks-activity-6974659725778964480-1cAH/?utm_source=share&utm_medium=member_android
+
+NLP course
+https://www.linkedin.com/feed/update/urn:li:activity:6974766718971703297/?utm_source=share&utm_medium=member_android
+
+teaming up kaggle NLP
+https://forums.fast.ai/t/teaming-up-for-kaggle-nlp-competitions/95499/2
+
+python for NLP
+https://stackabuse.com/python-for-nlp-parts-of-speech-tagging-and-named-entity-recognition/
 
 * [LayoutLMv3 by Microsoft] (https://www.linkedin.com/posts/niels-rogge-a3b7a3127_ai-microsoft-documents-activity-6938399818427854848-zSbC/?utm_source=linkedin_share&utm_medium=android_app) 
 * [Transformers library implemented in PyTorch] (https://github.com/NielsRogge/Transformers-Tutorials)
