@@ -140,9 +140,6 @@ https://www.linkedin.com/posts/puspanjalisarma_a-framework-for-designing-documen
 GPT3
 https://www.linkedin.com/posts/agustinus-nalwan_20b-parameter-alexa-model-sets-new-marks-activity-6974659725778964480-1cAH/?utm_source=share&utm_medium=member_android
 
-NLP course
-https://www.linkedin.com/feed/update/urn:li:activity:6974766718971703297/?utm_source=share&utm_medium=member_android
-
 teaming up kaggle NLP
 https://forums.fast.ai/t/teaming-up-for-kaggle-nlp-competitions/95499/2
 
@@ -173,7 +170,6 @@ https://stackabuse.com/python-for-nlp-parts-of-speech-tagging-and-named-entity-r
 [Book] https://www.linkedin.com/posts/sallu-mandya_nlp-naturallanguageprocessing-pretraining-activity-6956314171596566528-ppjE/?utm_source=linkedin_share&utm_medium=android_app
 
 
-https://www.linkedin.com/posts/abhishek-kumar-annamraju_naturallanguageprocessing-advanced-youtube-activity-6967361174866710528-6wp7/?utm_source=linkedin_share&utm_medium=android_app
 
 94 articles with NLP tips
 https://medium.com/nlplanet/an-organized-collection-of-94-articles-with-nlp-tips-5e0af1f3854a
@@ -341,19 +337,24 @@ https://github.com/dair-ai/ML-Notebooks#nlp
     <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV">Video<a></td>
   </tr>
      
+   <tr>
+    <td class="tg-yw4l">CMU Neural Networks for NLP</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV">Video<a></td>
+  </tr>  
+     
      <tr>
-    <td class="tg-yw4l">NLP with Deep Learning - by Rohit</td>
+    <td class="tg-yw4l">NLP with Deep Learning by Rohit</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"><a href="https://www.youtube.com/watch?v=RhiKcc9CXE0&list=PLxqBkZuBynVTn2lkHNAcw6lgm1MD5QiMK">Video<a></td>
   </tr>
      
-     
-  
   <tr>
     <td class="tg-yw4l">CS224U-Natural Language Understanding</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ">Video<a></td>
   </tr>
+
   
   <tr>
     <td class="tg-yw4l">Advanced NLP 2022</td>
