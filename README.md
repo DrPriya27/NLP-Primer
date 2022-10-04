@@ -212,12 +212,7 @@ https://www.linkedin.com/posts/rahulagwl_datascience-machinelearning-statistics-
 **Interpreting and controlling the output of transformer-based language models(LM)**
 * https://www.linkedin.com/posts/parulpandeyindia_largelanguagemodels-nlp-lmdebugger-activity-6940299314183163905-rRtA/?utm_source=linkedin_share&utm_medium=android_app
 
-**NLP Notebooks**
-* https://github.com/dair-ai/ML-Notebooks#nlp
-* https://www.kaggle.com/getting-started/73813
 
-**Worthful NLP Kaggle competition
-* https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview
 
 📕📄Book Reference: 
 practical NLP, Almost any machine learning problem ( 🚀 Abhishek Thakur), NLP with Transformer(Hugging Face), and Transformer for NLP (Denis Rothman) 
@@ -290,6 +285,18 @@ https://www.linkedin.com/posts/pradipnichite_nlp-bert-transformers-activity-6961
 **Social media pretrained language model**
 https://www.linkedin.com/posts/kalyankatikapallisubramanyam_social-media-pretrained-language-models-activity-6952245642630942720-2G3z?utm_source=linkedin_share&utm_medium=android_app
 
+**Question generation using NLP**
+https://www.linkedin.com/posts/ramsrig_question-generation-using-natural-language-activity-6967729559974670336-p4zc/?utm_source=share&utm_medium=member_android
+
+**NLP blogs**
+https://www.kaggle.com/getting-started/73813
+
+**US patent matching**
+https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview
+
+**transformer text classification course**
+https://www.linkedin.com/learning/transformers-text-classification-for-nlp-using-bert
+
 visual language model series
 https://www.linkedin.com/posts/prithivirajdamodaran_youtube-multimodalmodelling-activity-6955458307541110784-iBfh/?utm_source=linkedin_share&utm_medium=android_app
 
@@ -306,7 +313,6 @@ https://www.linkedin.com/posts/sanyambhutani_if-youre-interested-in-learning-som
 
 https://www.linkedin.com/posts/ramsrig_question-generation-using-natural-language-activity-6967729559974670336-p4zc/?utm_source=share&utm_medium=member_android
 
-https://github.com/dair-ai/ML-Notebooks#nlp
  
 **Sharing popular NLP courses freely available:-**
 
@@ -338,17 +344,11 @@ https://github.com/dair-ai/ML-Notebooks#nlp
   </tr>
      
    <tr>
-    <td class="tg-yw4l">CMU Neural Networks for NLP</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV">Video<a></td>
-  </tr>  
-     
-     <tr>
     <td class="tg-yw4l">NLP with Deep Learning by Rohit</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"><a href="https://www.youtube.com/watch?v=RhiKcc9CXE0&list=PLxqBkZuBynVTn2lkHNAcw6lgm1MD5QiMK">Video<a></td>
-  </tr>
-     
+  </tr>  
+
   <tr>
     <td class="tg-yw4l">CS224U-Natural Language Understanding</td>
     <td class="tg-yw4l"></td>
@@ -394,7 +394,7 @@ https://github.com/dair-ai/ML-Notebooks#nlp
  
   </table> 
   
-  **Sharing popular NLP notebooks freely available:-**
+**Sharing popular NLP notebooks freely available:-**
 
 <table class="tg">
   <tr>
@@ -415,6 +415,11 @@ https://github.com/dair-ai/ML-Notebooks#nlp
   <tr>
     <td class="tg-yw4l">Dair-AI</td>
     <td class="tg-yw4l"><a href="https://github.com/dair-ai/ML-Course-Notes">Github<a></td>
+  </tr>
+     
+     <tr>
+    <td class="tg-yw4l">Dair-AI notebooks</td>
+    <td class="tg-yw4l"><a href="https://github.com/dair-ai/ML-Notebooks#nlp">Github<a></td>
   </tr>
   
   <tr>
