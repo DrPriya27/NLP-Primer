@@ -173,9 +173,6 @@ https://stackabuse.com/python-for-nlp-parts-of-speech-tagging-and-named-entity-r
 [Book] https://www.linkedin.com/posts/sallu-mandya_nlp-naturallanguageprocessing-pretraining-activity-6956314171596566528-ppjE/?utm_source=linkedin_share&utm_medium=android_app
 
 
-CMU advance NLP course
-https://www.linkedin.com/posts/abhishek-kumar-annamraju_naturallanguageprocessing-youtube-course-activity-6965518288290238465-30Pn/?utm_source=linkedin_share&utm_medium=android_app
-
 https://www.linkedin.com/posts/abhishek-kumar-annamraju_naturallanguageprocessing-advanced-youtube-activity-6967361174866710528-6wp7/?utm_source=linkedin_share&utm_medium=android_app
 
 94 articles with NLP tips
@@ -343,6 +340,14 @@ https://github.com/dair-ai/ML-Notebooks#nlp
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV">Video<a></td>
   </tr>
+     
+     <tr>
+    <td class="tg-yw4l">NLP with Deep Learning - by Rohit</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/watch?v=RhiKcc9CXE0&list=PLxqBkZuBynVTn2lkHNAcw6lgm1MD5QiMK">Video<a></td>
+  </tr>
+     
+     
   
   <tr>
     <td class="tg-yw4l">CS224U-Natural Language Understanding</td>
@@ -351,6 +356,12 @@ https://github.com/dair-ai/ML-Notebooks#nlp
   </tr>
   
   <tr>
+    <td class="tg-yw4l">Advanced NLP 2022</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PLWnsVgP6CzadI4-FT2Po4wsEK7MHCIQ-d">Video<a></td>
+  </tr>
+     
+     <tr>
     <td class="tg-yw4l">CMU Advanced NLP</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6">Video<a></td>
