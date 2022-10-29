@@ -11,6 +11,9 @@ https://www.linkedin.com/posts/ramsrig_naturallanguageprocessing-nlp-datascience
 https://grammar.yourdictionary.com/parts-of-speech/adverbs/con-adverb.html
 https://stackoverflow.com/questions/62938465/nlp-problems-to-handle-sentence-with-conjunctions
 
+**300 NLP projects
+https://www.linkedin.com/posts/karunt_300-nlp-notebooks-and-freedom-activity-6983055353869402113-Bx1m/?utm_source=share&utm_medium=member_android
+
 **splitting sentences into clauses**
 https://subscription.packtpub.com/book/data/9781838987312/2/ch02lvl1sec13/splitting-sentences-into-clauses
 https://towardsdatascience.com/nlp-splitting-text-into-sentences-7bbce222ef17
@@ -48,6 +51,10 @@ https://www.linkedin.com/posts/dipanzan_spacy-cheat-sheet-activity-6980543013622
 
 **transformer**
 https://www.linkedin.com/posts/prithivirajdamodaran_transformers-beat-cnns-then-cnns-beat-transformers-activity-6978949490837757952-t1JT/?utm_source=share&utm_medium=member_android
+https://www.linkedin.com/posts/dipanzan_data-datascience-python-activity-6983442808854462464-3IeN/?utm_source=share&utm_medium=member_android
+
+**choosing write language model**
+https://www.linkedin.com/posts/ashishpatel2604_naturallanguageprocessing-artificialintelligence-activity-6983446541214576640-vTk0/?utm_source=share&utm_medium=member_android
 
 **attention**
 https://www.linkedin.com/posts/ugcPost-6978485357390512128-2w58/?utm_source=share&utm_medium=member_android
@@ -169,7 +176,23 @@ https://stackabuse.com/python-for-nlp-parts-of-speech-tagging-and-named-entity-r
 [Pradeep Nichite] (https://www.linkedin.com/posts/pradipnichite_freelancing-machinelearning-nlp-activity-6956878499609493504-hF9y/?utm_source=linkedin_share&utm_medium=android_app)(https://www.linkedin.com/posts/pradipnichite_nlp-bert-transformers-activity-6959044624933892096-Lk7m/?utm_source=linkedin_share&utm_medium=android_app) (https://www.linkedin.com/posts/pradipnichite_gpt3-nlp-sentimentanalysis-activity-6960556271980695552-ASbH/?utm_source=linkedin_share&utm_medium=android_app)
 [Book] https://www.linkedin.com/posts/sallu-mandya_nlp-naturallanguageprocessing-pretraining-activity-6956314171596566528-ppjE/?utm_source=linkedin_share&utm_medium=android_app
 
+NLP course
+https://www.linkedin.com/posts/abhishek-kumar-annamraju_naturallanguageprocessing-youtube-study-activity-6984095176608681984-85Ys/?utm_source=share&utm_medium=member_android
 
+OpenAI
+https://www.linkedin.com/posts/cobusgreyling_how-will-openai-whisper-impact-current-commercial-activity-6983045483426377728-f_mC/?utm_source=share&utm_medium=member_android
+
+Top NLP online course
+https://www.linkedin.com/posts/kalyankatikapallisubramanyam_nlproc-nlp-deeplearning-activity-6984349048073842688-7_Lu/?utm_source=share&utm_medium=member_android
+
+Custom NLP
+https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_python-nlproc-opensource-activity-6984526917878042624-YtKj/?utm_source=share&utm_medium=member_android
+
+NLP basics
+https://www.linkedin.com/posts/bhatt-jeet_datascience-machinelearning-data-activity-6985094084281454592-lArc/?utm_source=share&utm_medium=member_android
+
+AI research experience course
+https://www.linkedin.com/posts/kalyankatikapallisubramanyam_nlproc-nlp-computervision-activity-6985842567372312576-dFfs/?utm_source=share&utm_medium=member_android
 
 94 articles with NLP tips
 https://medium.com/nlplanet/an-organized-collection-of-94-articles-with-nlp-tips-5e0af1f3854a
@@ -245,6 +268,12 @@ https://medium.com/analytics-vidhya/text-classification-with-bert-using-transfor
 
 **Key concept text pre-processing**
 * https://www.seekho.ai/blog/key-concepts-of-text-preprocessing-for-natural-language-processing/
+
+** Tokenization
+https://www.linkedin.com/posts/herumb-s-740163131_in-nlp-the-first-thing-i-ever-learned-was-activity-6985921539003060224-ww3F/?utm_source=share&utm_medium=member_android
+
+** word vectors
+https://www.linkedin.com/posts/thinam-tamang_machinelearning-deeplearning-mlops-activity-6986972586861617152-5bZb/?utm_source=share&utm_medium=member_android
 
 **Vectorization techniques**
 * https://huggingface.co/docs/transformers/tokenizer_summary
