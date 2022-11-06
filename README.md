@@ -18,12 +18,7 @@ https://www.linkedin.com/posts/karunt_300-nlp-notebooks-and-freedom-activity-698
 https://subscription.packtpub.com/book/data/9781838987312/2/ch02lvl1sec13/splitting-sentences-into-clauses
 https://towardsdatascience.com/nlp-splitting-text-into-sentences-7bbce222ef17
 
-**word embedding**
-https://www.linkedin.com/posts/puspanjalisarma_nlp-datascience-artificialintelligence-activity-6981164409419149313-fwH9/?utm_source=share&utm_medium=member_android
-https://www.linkedin.com/posts/lavanyats_bert-vs-word2vec-embeddings-activity-6978221983201185793-aiat/?utm_source=share&utm_medium=member_android
-https://www.linkedin.com/posts/jalammar_the-illustrated-word2vec-a-gentle-intro-activity-6977227264614666240-t9WD/?utm_source=share&utm_medium=member_android
-https://medium.com/nlplanet/two-minutes-nlp-11-word-embeddings-models-you-should-know-a0581763b9a9
-https://www.linkedin.com/posts/activity-6974001281262604288-2g3Y/?utm_source=share&utm_medium=member_android
+
 
 **NLP papers**
 https://www.linkedin.com/posts/tanul-singh_deberta-is-the-new-king-jarvislabsai-activity-6953002403394658304--LAj/?utm_source=share&utm_medium=member_android
