@@ -76,29 +76,40 @@ https://neptune.ai/blog/vectorization-techniques-in-nlp-guide
 
 [NLP] SpaCy Classifier with pre-train token2vec VS. One without pre-train | by Tom Lin | Towards Data Science
 
+𝗳𝗲𝘄-𝘀𝗵𝗼𝘁 𝗰𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝘁𝗮𝗯𝘂𝗹𝗮𝗿 𝗱𝗮𝘁𝗮 𝘄𝗶𝘁𝗵 𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝘀
 https://www.linkedin.com/posts/abdalimran_artificialintelligence-naturallanguageprocessing-activity-6989123329202827264-8D91/?utm_source=share&utm_medium=member_android
 
+sara and another conference
 https://www.linkedin.com/posts/synopsys_iccad2022-semiconductor-activity-6991513416850956288-iOit/?utm_source=share&utm_medium=member_android
+
+
 
 https://verificationacademy.com/forums/uvm/multiple-register-design
 
 https://www.google.com/search?q=ral+automation+eda&sxsrf=ALiCzsa8G-Brwis-SzRFB3P-GNDmuuXYXA%3A1667570710939&ei=FhxlY4_-OIGE4-EPi8qYwAI&oq=ral+&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYADIECCMQJzIECCMQJzIECCMQJzIFCAAQkQIyCggAELEDEIMBEEMyBQgAEJECMgQIABBDMgoIABCxAxCDARBDOgoIABBHENYEELADOgcIIxDqAhAnOgsIABCABBCxAxCDAToICAAQsQMQgwE6CwguEIAEELEDEIMBOgUIABCABDoHCAAQsQMQQzoFCC4QgAQ6CwguEIMBELEDEIAEOg0ILhDHARDRAxDUAhBDOgcILhDUAhBDSgQIQRgAULERWPwjYNoraAVwAHgAgAH5AYgBmAqSAQUwLjEuNZgBAKABAbABD8gBCMABAQ&sclient=mobile-gws-wiz-serp
 
+https://www.libhunt.com/l/python/topic/uvm-ral-model
+https://learnuvmverification.com/index.php/2020/11/02/how-to-implement-uvm-ral-part-1/
+https://scholar.google.co.in/scholar?start=0&q=Register+Automation+using+Machine+Learning+at+DVCon+2019.&hl=en&as_sdt=0,5&as_vis=1
+https://www.agnisys.com/register-automation-using-machine-learning/
+
+
+
+
+ARM AMBA 5
 https://www.linkedin.com/posts/venkatesh-kudumula-46550014_synopsys-introduces-the-industrys-first-activity-6993154923798413312-jJaK/?utm_source=share&utm_medium=member_android
 
+PUZZLEX AND good profile for advisory point of view
 https://www.linkedin.com/posts/synopsys_semiconductor-ai-chiplet-activity-6992908180070518784-jD3Y/?utm_source=share&utm_medium=member_android
 
-https://www.libhunt.com/l/python/topic/uvm-ral-model
 
-https://learnuvmverification.com/index.php/2020/11/02/how-to-implement-uvm-ral-part-1/
-
+AI/ML IN DVCON
 https://blogs.sw.siemens.com/verificationhorizons/2020/01/21/ai-ml-at-dvcon-from-theory-to-applications/
 
-https://scholar.google.co.in/scholar?start=0&q=Register+Automation+using+Machine+Learning+at+DVCon+2019.&hl=en&as_sdt=0,5&as_vis=1
-
-https://www.agnisys.com/register-automation-using-machine-learning/
+AI CAN DIagnose diaase based on voice
 https://www.linkedin.com/posts/synopsys_artificial-intelligence-could-soon-diagnose-activity-6986740763531382784-OOae/?utm_source=share&utm_medium=member_android
 
+Electronic Design Process Symposium (EDPS)
 https://www.linkedin.com/posts/kerimgenc_impostersyndrome-innovation-medical-activity-6983826394443042816-mJdX/?utm_source=share&utm_medium=member_android
 
 https://www.linkedin.com/posts/abdalimran_artificialintelligence-datascience-machinelearning-activity-6989601483277160449-Muks/?utm_source=share&utm_medium=member_android
