@@ -64,6 +64,7 @@ Other references:
 * https://jalammar.github.io/illustrated-word2vec/
 * https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial
 * https://medium.com/@makcedward/how-negative-sampling-work-on-word2vec-7bf8d545b116
+* https://www.linkedin.com/posts/jalammar_the-illustrated-word2vec-a-gentle-intro-activity-6977227264614666240-t9WD/?utm_source=share&utm_medium=member_android
 
 ### 4. Global Vectors for word representation [(GloVe)](https://nlp.stanford.edu/pubs/glove.pdf)
 It is also based on creating contextual word embeddings. Word2Vec is a window-based method, in which the model relies on local information for generating word embeddings, which in turn is limited to the window size that we choose. GloVe on the other hand captures both global and local statistics in order to come up with the word embeddings.
@@ -73,6 +74,11 @@ https://neptune.ai/blog/vectorization-techniques-in-nlp-guide
 
 ### 6. Doc2Vec
 
+### References
+* https://www.linkedin.com/posts/puspanjalisarma_nlp-datascience-artificialintelligence-activity-6981164409419149313-fwH9/?utm_source=share&utm_medium=member_android
+* https://medium.com/nlplanet/two-minutes-nlp-11-word-embeddings-models-you-should-know-a0581763b9a9
+* https://www.linkedin.com/posts/activity-6974001281262604288-2g3Y/?utm_source=share&utm_medium=member_android
+* [Word2Vec Vs BERT] https://www.linkedin.com/posts/lavanyats_bert-vs-word2vec-embeddings-activity-6978221983201185793-aiat/?utm_source=share&utm_medium=member_android
 
 [NLP] SpaCy Classifier with pre-train token2vec VS. One without pre-train | by Tom Lin | Towards Data Science
 
