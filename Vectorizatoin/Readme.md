@@ -287,6 +287,10 @@ Python Camelot borderless table extraction issue - Stack Overflow
 
 camelot/camelot at master · atlanhq/camelot · GitHub
 
+https://www.techdesignforums.com/practice/technique/executable-specification-soc-ip/
+
+https://www.google.com/search?q=idesignspec&client=ms-android-samsung-ga-rev1&sxsrf=ALiCzsbCaI8dGrP_CMeiBDoBUOVw-XkvFw%3A1667928888139&ei=OJNqY4iRCN_az7sPtISi2AI&oq=idesugnspev&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYADIHCAAQgAQQDTIGCAAQHhANMgYIABAeEA0yBQgAEKIEMgUIABCiBDIFCAAQogQyBQgAEKIEOgoIABBHENYEELADOgcIIxDqAhAnOgQIIxAnOgUIABCRAjoLCAAQgAQQsQMQgwE6EQguEIAEELEDEIMBEMcBENEDOgQIABBDOggIABCxAxCRAjoHCAAQsQMQQzoHCC4QsQMQQzoFCAAQgAQ6DAgAELEDEAIQnwEQQzoHCAAQgAQQCjoFCC4QgAQ6DQgAEIAEELEDEIMBEAo6CggAEIAEELEDEA1KBAhBGABQihRY8SZg-TpoA3AAeACAAfEBiAGPEZIBBTAuOC4zmAEAoAEBsAEPyAEFwAEB&sclient=mobile-gws-wiz-serp#ip=1
+
 
 
 
