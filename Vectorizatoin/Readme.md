@@ -118,8 +118,11 @@ https://www.linkedin.com/posts/synopsys_artificial-intelligence-could-soon-diagn
 Electronic Design Process Symposium (EDPS)
 https://www.linkedin.com/posts/kerimgenc_impostersyndrome-innovation-medical-activity-6983826394443042816-mJdX/?utm_source=share&utm_medium=member_android
 
+Table to text
 https://www.linkedin.com/posts/abdalimran_artificialintelligence-datascience-machinelearning-activity-6989601483277160449-Muks/?utm_source=share&utm_medium=member_android
 
+
+synopsys people
 https://www.linkedin.com/posts/andrewbolster_ml-datascience-workanniversary-activity-6988101997300219904-DPJI/?utm_source=share&utm_medium=member_android
 
 verification checks identification in electroninc design automation with nlp - Google Search
@@ -132,13 +135,8 @@ Machine Learning Electronic Design Automation:Unlocking Designs | Advanced PCB D
 
 What Is an AI Accelerator? – How It Works | Synopsys
 
-(8) Post | LinkedIn
 
 automatic translation of design specification - Google Search
-
-(8) Post | LinkedIn
-
-(8) Post | LinkedIn
 
 AI-Based Sequence Detection for IP and SoC Verification and (edacafe.com)
 
@@ -148,17 +146,12 @@ Machine Learning Gives Us EDA Tools That Can Learn - Digital Engineering 24/7 (d
 
 Enhancing Chip Verification with AI and Machine Learning (synopsys.com)
 
-(8) Post | LinkedIn
-
-(8) Post | LinkedIn
 
 electronic-design-automation · GitHub Topics
 
 formal verification protocol checks + machine leaeming - Google Search
 
 spacyspaCy 101: Everything you need to know · spaCy Usage Documentation
-(6) Post | LinkedIn
-
 
 Deepak ahuja
 Green changed sentences Red is for tablesBlue condition need to be taken care in code
@@ -166,16 +159,11 @@ Green changed sentences Red is for tablesBlue condition need to be taken care i
 Parth to add vocabulary in bert model
 Softlink To do and ignore there are two features in verdi 
 
-(15) Post | LinkedIn
-
 What is Intelligent Document Processing(IDP)? - Benefits and use-cases of IDP in different industries (docsumo.com)
 
-Predict.py line 138Recall above 90
-
-41.4 kevin
-Pattern number in txt-cleaned folder is-section need to be finded 
-Jesd209-5a is for usb
 Ucie make df2 to df3.
+
+amazon go
 https://www.youtube.com/watch?v=NrmMk1Myrxcamazon go
 nlp - Text Classification with Spacy : going beyond the basics to improve performance - Stack Overflow
 
@@ -197,13 +185,11 @@ Text Classification: All Tips and Tricks from 5 Kaggle Competitions | Neptune Bl
 
 Text Classification using SpaCy | Kaggle
 
-Cxl subsystem mai arb-mux ko follow karre h. Chapter 5. Rohitash ownersip is with arb/mux
-Line 143 and 149 in generate_pos_neg_train_data.py. unique data and total data difference
+
 Dfi - _n is for active low means when zero hai to value jayegi. _N ni h to active high signal h.  Highlighting in pdf
 Ddr and dfi mai wherever we have a parameter written one req min.
 Issue of table header not spanninh multiple pages  two ai
 
-Val-org line 442
 
 https://www.kaggle.com/code/andreshg/nlp-glove-bert-tf-idf-lstm-explained
 
@@ -223,19 +209,9 @@ AND ONE IN PHONE SCREENSHOT
 Nlp disaster tweet ke sari notebook padoSearch similarity kaggle per dekhoOverleaf ke paper read karoDatacamp videos
 Deployment kaise har spec per. Table template kaise sabki. Mipi per table excel file.
 
- Come up with traunibgv. Svdoc add future activity  Compare data from spec linking. 
-  Code assertion. Assertion code creation as a part of table. Functional code coverage session from snigdha from table. 
-Interface to functional coverage ke perspective se h. Protocol ni h ye.
-Svdoc team is able to use code for specific linking...
-
 office:Knowledge seriessemiconductor talk series youtubebenefits vides youtube
-Highlight is very very unique thing. 80 percent accuracy on lpddr. 90 percent on so and so protocol this is highlight.
-Ml model training is not a highlight. Hvp gene4ation to svdoc is not highlight. 
-Highlight should be summary. Bigger roadmap swnior people will be looking out. 
-Road plan for next 2 months
-Problem descriptionTeam se batDfi ke output share with the teamApproval ko also add
+
 Gray are not checks. Blue are checks but line items are not sufficient. Green bold are checks. Yellow ones even not clear to him
-(13) Post | LinkedIn
 
 https://blogs-synopsys-com.cdn.ampproject.org/c/s/blogs.synopsys.com/from-silicon-to-software/2022/05/26/synopsys-learning-center/amp/
 
@@ -256,11 +232,6 @@ https://www.linkedin.com/posts/synopsys_ai-aihardwaresummit-activity-69650042628
 
 https://sjobs.brassring.com/TGNewUI/Search/Home/HomeWithPreLoad?partnerid=25235&siteid=5359&jobid=1958321&PageType=jobdetails#jobDetails=1958321_5359
 
-(16) Post | Feed | LinkedIn
-
-cxl 3(17) Post | LinkedIn
-
-(17) Post | LinkedIn
 
 Data extraction from a PDF table with semi-structured layout | by Volodymyr Holomb | Towards Data Science
 
